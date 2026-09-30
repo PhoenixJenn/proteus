@@ -22,6 +22,7 @@ Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, TODO.md checkoff, co
 - From today's "What We Did," ask (or judge, if obviously clear-cut) whether anything qualifies as a keeper win — the Rules of Engagement bar from her work-strategy context: worth naming, narrating, and sharing later, not just today's routine work.
 - If yes: append to `<CONTEXT_DIR>/monthly/YYYY-MM.md` (create it from `templates/monthly-log.md`, in this repo, if this month's file doesn't exist yet).
 - `templates/monthly-log.md` is a placeholder — Jenn has a real template at work she hasn't brought over yet. Use the placeholder as-is until she swaps it in; don't invent structure beyond what it has.
+- **Only on the last wrap-up of a calendar month** (or if Jenn asks directly): ask the Deep Work shallow-work check — did logistics/status meetings/reactive Slack crowd out the protected deep-work block more weeks than not this month? Log the answer under that month's file. See `docs/daily-work-companion.md` → Longer cadences → Monthly.
 
 ## Original steps, unchanged
 
