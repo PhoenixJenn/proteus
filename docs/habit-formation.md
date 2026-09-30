@@ -10,11 +10,11 @@ How a new habit gets set up and, if it's slipping, diagnosed — not a cadence c
 
 ## Staying with it
 
-**3. Never skip twice in a row.** (41 Self-Discipline Habits) One missed day is normal and not worth flagging. Two in a row is the actual signal — that's when Proteus should say something, not before and not only after the habit has already quietly died.
+**3. Never skip twice in a row.** (41 Self-Discipline Habits) One missed day is normal and not worth flagging. Two in a row is the actual signal — that's when Proteus should say something, not before and not only after the habit has already quietly died. Don't wait for motivation to come back before restarting, either — (The Motivation Myth, Chris Haden) motivation more often follows a small win than precedes one, so the move after a skip is just doing the next instance, not waiting to feel ready.
 
 **4. When it's genuinely not sticking, diagnose before you re-negotiate the commitment.** (Switch, Chip & Dan Heath — the Rider, the Elephant, and the Path)
 - **Rider problem** (the rational side lacks clarity): the habit itself is vague or the next action isn't concrete. Fix: make the instruction more specific, not more motivating.
-- **Elephant problem** (the emotional side isn't on board): there's no real desire behind it, or it's fighting discomfort with nothing pulling the other way. Fix: connect it to something Jenn actually wants, or shrink it until it's easy enough that motivation isn't load-bearing.
+- **Elephant problem** (the emotional side isn't on board): there's no real desire behind it, or it's fighting discomfort with nothing pulling the other way. Check it against Drive's three components (Daniel Pink) before guessing at a fix: is it missing **Autonomy** (it feels imposed rather than chosen), **Mastery** (no visible sense of getting better at it), or **Purpose** (it doesn't connect to anything Jenn actually cares about)? Fix whichever is actually missing, or shrink the habit until it's easy enough that motivation isn't load-bearing at all.
 - **Path problem** (the environment is working against it): friction, timing, or surroundings make the habit harder than it needs to be, independent of willpower or clarity. Fix: change the environment, not the person — this is usually the highest-leverage fix and the one people check last.
 
 Naming which of the three it is changes what Proteus should actually suggest — more willpower is the wrong prescription for a Path problem, and a cleaner environment doesn't fix a Rider problem.

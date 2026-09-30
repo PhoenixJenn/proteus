@@ -21,7 +21,8 @@ Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, to-do checkoff, conf
 
 ### Step 4b — Monthly log
 - From today's "What We Did," ask (or judge, if obviously clear-cut) whether anything qualifies as a keeper win — worth naming, narrating, and sharing later per her strategy/goals context, not just today's routine work.
-- If yes: append it to **End-of-Month Wins** in this month's log at the path in `.local/knowledge-index.md` (create it from `templates/monthly-log.md` — the real Monthly Log format from `plan-do-reflect-www` — if this month's file doesn't exist yet).
+- If yes: capture it in **SBI** (`templates/sbi.md` — Situation/Behavior/Impact) for a quick win, or **STARR** (`templates/starr.md` — adds Task and a Reflection step) for one substantial enough to want the detail. This is what makes the monthly log doubly useful — not just a record, but material that's already shaped for a self-review or performance conversation when the time comes (see `docs/hard-conversations.md`).
+- Append it to **End-of-Month Wins** in this month's log at the path in `.local/knowledge-index.md` (create it from `templates/monthly-log.md` — the real Monthly Log format from `plan-do-reflect-www` — if this month's file doesn't exist yet).
 - **Only on the last wrap-up of a calendar month** (or if Jenn asks directly):
   - Ask the Deep Work shallow-work check — did logistics/status meetings/reactive Slack crowd out the protected deep-work block more weeks than not this month? Log it under Ideas & Open Threads (or wherever it best fits that month's entries).
   - Ask The ONE Thing's Focusing Question at month-scope, and check the month's **Core Goals** / **Growth Goals** sections are actually filled in for next month, not just Wins — that's the point of pulling this specific template rather than a generic log.

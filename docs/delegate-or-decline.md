@@ -23,7 +23,7 @@ Synthesizes what's already been curated from the Time Management one-pagers (see
 - Default phrasing: "I don't," not "I can't" — a standing choice, not an obstacle to negotiate around.
 - If it's on the spot and undecided: buy time ("let me check and get back to you") rather than answering reflexively.
 - If this is a recurring category, check whether a standing blanket-no already exists from the quarterly trigger audit (`daily-work-companion.md` → Longer cadences → Quarterly) — if so, this decision is already made; if this is the second or third time a new category has come up, flag it as a candidate for the *next* quarterly audit instead of re-deciding from scratch each time.
-- If declining outright isn't right but doing it herself isn't either: name who it should go to instead, rather than leaving "delegate" as an unresolved verb.
+- If declining outright isn't right but doing it herself isn't either: name who it should go to instead, rather than leaving "delegate" as an unresolved verb — (Who Not How, Dan Sullivan/Benjamin Hardy) the actual reframe is asking "who can get this done" instead of "how will I get this done," which is what steps 2-4 above have already been building toward.
 
 ## What this isn't
 

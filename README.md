@@ -19,14 +19,16 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `pdr-practice-coach.md` — the book-one-pager-practice component
   - `framework-nuggets.md` — pre-curated "best of" situational frameworks from the one-pagers, for live conversation — curated once per book, not searched live (keeps token cost off every conversation)
   - `delegate-or-decline.md` — a decision flow spanning several one-pagers (core-competency filter, ABCDE tagging, capacity check, actual no-tactics), run both on-demand and proactively during the Weekly Review
-  - `habit-formation.md` — how any new habit gets set up (habit stacking, the Four Laws) and diagnosed if it's slipping (Rider/Elephant/Path) — wired into the book-practice coach and `/wrap-up`, not a standalone cadence
+  - `habit-formation.md` — how any new habit gets set up (habit stacking, the Four Laws) and diagnosed if it's slipping (Rider/Elephant/Path, Drive's Autonomy/Mastery/Purpose) — wired into the book-practice coach and `/wrap-up`, not a standalone cadence
+  - `hard-conversations.md` — a flow for any hard conversation (feedback, accountability, conflict, performance reviews, 1:1s) — STATE/CRIB, a three-books-deep listening technique, and a difficult-behavior playbook
 - `commands/` — Claude Code slash commands that support the agent
-  - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log)
+  - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running
   - `pdr-active-practice.md` — template for whichever book's practice is currently active
 - `templates/` — reusable templates, sourced from `plan-do-reflect-www`'s own published framework where one exists — public content, not placeholders
   - `monthly-log.md` — the Monthly Log format from Reflection Practice (Core Goals, Growth Goals, Ideas & Open Threads, End-of-Month Wins)
   - `quarterly-review.md` — the Quarterly Review format, explicitly reusable for a quarter/half/full year — also the base shape for mid-year/EOY reviews (Jenn's own extra prompts for those go in `.local/reviews/`, gitignored, once she has them)
+  - `sbi.md` / `starr.md` — the site's own accomplishment-capture formats (quick vs. detailed), used to shape keeper wins into material a real performance review can draw from
   - `knowledge-index.example.md` — the shape of the local knowledge index (see below)
 
 ## No internal knowledge lives in this repo
