@@ -77,4 +77,5 @@ At any time, at most one book's practice is "active" as a *temporary* experiment
 ## Still open
 
 - Whether/how the mobile Claude Project reads the knowledge index and the daily/monthly logs live, vs. Jenn pasting in updates periodically — Projects can't read a filesystem.
+- **Confirmed by a live test (2026-09-30):** the calendar tool connected in a general Claude session defaults to a *personal* calendar, not a work one — read access worked, but it's the wrong calendar for the actual "protect deep work from meetings" problem, which lives on the work calendar. `.local/knowledge-index.md` needs to point at the right calendar explicitly per machine; don't assume whatever's connected by default is the correct one. Write access wasn't tested (Jenn chose not to write to the wrong calendar) — still needs a real test once run somewhere the work calendar is actually connected.
 - The work-laptop version of `/wrap-up` — what it's currently called there, and what the local knowledge index should point to in a work environment.
