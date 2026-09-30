@@ -14,6 +14,7 @@ Design draft. Not yet built as a Claude Project. See `docs/daily-work-companion.
   - `daily-work-companion.md` — the overall daily-loop design (Plan/Do/Reflect for the workday)
   - `pdr-practice-coach.md` — the book-one-pager-practice component
   - `framework-nuggets.md` — pre-curated "best of" situational frameworks from the one-pagers, for live conversation — curated once per book, not searched live (keeps token cost off every conversation)
+  - `delegate-or-decline.md` — a decision flow spanning several one-pagers (core-competency filter, ABCDE tagging, capacity check, actual no-tactics), run both on-demand and proactively during the Weekly Review
 - `commands/` — Claude Code slash commands that support the agent
   - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log)
 - `state/` — generic, empty templates for state the commands read/write once running
