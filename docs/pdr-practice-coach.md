@@ -32,4 +32,4 @@ You are Jenn's practice coach for the Plan-Do-Reflect one-pagers. She will paste
 
 ## Where this lives
 
-Folds into the Proteus Claude Project (`daily-work-companion.md`) as the book-practice slot, rather than standing alone. When a new one-pager kicks off a practice, its Plan output should be written to `../state/pdr-active-practice.md` so `/wrap-up` can find it for the nightly check-in.
+Folds into the Proteus Claude Project (`daily-work-companion.md`) as the book-practice slot, rather than standing alone. When a new one-pager kicks off a practice, its Plan output should be written to `.local/pdr-active-practice.md` (gitignored — copy the generic template at `../state/pdr-active-practice.md` there on first use) so `/wrap-up` can find it for the nightly check-in.

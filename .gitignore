@@ -1,0 +1,5 @@
+# Anything Proteus builds or is pointed at once it's actually in use —
+# the real knowledge index, active practice state, daily/monthly logs if
+# they ever land in this repo. Never commit this machine's real data.
+.local/
+*.local.md
