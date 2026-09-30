@@ -57,7 +57,7 @@ The daily loop covers Plan/Do/Reflect for a single day. These sit above it — c
 - Same Focusing Question, at month-scope, asked at the same checkpoint (The ONE Thing).
 
 ### Quarterly
-- Revisit **which scheduling style actually fits her role right now** — Monastic, Bimodal, Rhythmic, or Journalistic (Deep Work). Worth re-deciding occasionally as her role/meeting load shifts, not weekly. If the weekly deep-work block keeps getting bumped, that's the signal this check is overdue, not just "try harder to protect it."
+- Revisit **which scheduling style actually fits her role right now** — Monastic, Bimodal, Rhythmic, or Journalistic (Deep Work). Worth re-deciding occasionally as her role/meeting load shifts, not weekly. If the weekly deep-work block keeps getting bumped, that's the signal this check is overdue, not just "try harder to protect it." Pair it with Indistractable's (Nir Eyal) **hack back external triggers**: audit notifications, email, chat, and meetings, and ask of each whether it actually serves her — turn off, batch, or reroute the ones that don't. A scheduling style is only as good as what's still allowed to interrupt it; if the block keeps failing, this is usually why.
 - Same Focusing Question at quarter-scope, framed with The ONE Thing's **counterbalance instead of balance**: lean hard into one priority for the quarter, then correct before the neglected areas suffer — rather than trying to hold everything level at once.
 
 ### Yearly (new cadence)
@@ -65,7 +65,7 @@ The daily loop covers Plan/Do/Reflect for a single day. These sit above it — c
 
 ## Standing mechanisms pulled from a one-pager (vs. temporary practices)
 
-Some one-pagers surface a mechanism durable enough to just become part of how Proteus operates — not a 1-2 week experiment to try and drop. The Deep Work and The ONE Thing items above are the first examples of this: curated and folded straight into the design docs (Jenn reviewed and approved each set before it was written), rather than run through the practice-coach flow below. Left out deliberately, same reasoning both times: mental models worth knowing but not checkable mechanisms (Deep Work's attention residue/boredom tolerance; The ONE Thing's six lies and 80/20 framing).
+Some one-pagers surface a mechanism durable enough to just become part of how Proteus operates — not a 1-2 week experiment to try and drop. Deep Work, The ONE Thing, and Indistractable above are the examples of this so far: curated and folded straight into the design docs (Jenn reviewed and approved each set before it was written), rather than run through the practice-coach flow below. Left out deliberately, same reasoning each time: mental models worth knowing but not checkable mechanisms (Deep Work's attention residue/boredom tolerance; The ONE Thing's six lies and 80/20 framing; Indistractable's internal-trigger reflection, the ten-minute rule, pacts, and team culture — the first is already covered by the evening "what got in the way" question, and Proteus doesn't run mid-day, so it can't enforce the rest).
 
 ## Book practice slot (from the one-pager coach)
 
