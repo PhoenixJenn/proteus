@@ -18,11 +18,13 @@ Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, to-do checkoff, conf
 - If it's been running long enough to judge (Jenn's call, don't impose a fixed number of days): ask whether to keep it running, adjust it, or retire it. A retired practice moves to the "Retired" section, not deleted.
 - If nothing's active: skip silently, don't prompt her to start one — that happens when she hands over a new one-pager (see `docs/pdr-practice-coach.md`), not during wrap-up.
 
-### Step 4b — Monthly log: keeper wins
+### Step 4b — Monthly log
 - From today's "What We Did," ask (or judge, if obviously clear-cut) whether anything qualifies as a keeper win — worth naming, narrating, and sharing later per her strategy/goals context, not just today's routine work.
-- If yes: append to this month's log at the path in `.local/knowledge-index.md` (create it from `templates/monthly-log.md`, in this repo, if this month's file doesn't exist yet).
-- `templates/monthly-log.md` is a generic placeholder — Jenn has a real template at work she hasn't brought over yet. Use the placeholder as-is until she swaps it in; don't invent structure beyond what it has.
-- **Only on the last wrap-up of a calendar month** (or if Jenn asks directly): ask the Deep Work shallow-work check — did logistics/status meetings/reactive Slack crowd out the protected deep-work block more weeks than not this month? Log the answer under that month's file. See `docs/daily-work-companion.md` → Longer cadences → Monthly.
+- If yes: append it to **End-of-Month Wins** in this month's log at the path in `.local/knowledge-index.md` (create it from `templates/monthly-log.md` — the real Monthly Log format from `plan-do-reflect-www` — if this month's file doesn't exist yet).
+- **Only on the last wrap-up of a calendar month** (or if Jenn asks directly):
+  - Ask the Deep Work shallow-work check — did logistics/status meetings/reactive Slack crowd out the protected deep-work block more weeks than not this month? Log it under Ideas & Open Threads (or wherever it best fits that month's entries).
+  - Ask The ONE Thing's Focusing Question at month-scope, and check the month's **Core Goals** / **Growth Goals** sections are actually filled in for next month, not just Wins — that's the point of pulling this specific template rather than a generic log.
+  - See `docs/daily-work-companion.md` → Longer cadences → Monthly.
 
 ## Original steps, unchanged
 

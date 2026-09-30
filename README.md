@@ -17,13 +17,14 @@ Design draft. Not yet built as a Claude Project. See `docs/daily-work-companion.
   - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log)
 - `state/` — generic, empty templates for state the commands read/write once running
   - `pdr-active-practice.md` — template for whichever book's practice is currently active
-- `templates/` — reusable templates
-  - `monthly-log.md` — placeholder monthly-log format (swap for Jenn's real work template when she brings it over)
+- `templates/` — reusable templates, sourced from `plan-do-reflect-www`'s own published framework where one exists — public content, not placeholders
+  - `monthly-log.md` — the Monthly Log format from Reflection Practice (Core Goals, Growth Goals, Ideas & Open Threads, End-of-Month Wins)
+  - `quarterly-review.md` — the Quarterly Review format, explicitly reusable for a quarter/half/full year — also the base shape for mid-year/EOY reviews (Jenn's own extra prompts for those go in `.local/reviews/`, gitignored, once she has them)
   - `knowledge-index.example.md` — the shape of the local knowledge index (see below)
 
 ## No internal knowledge lives in this repo
 
-Everything above is generic framework — it doesn't know Jenn's actual to-do list, strategy docs, goals, or any other personal/work content. The first time this is used on a machine, it builds a **local knowledge index** (`.local/knowledge-index.md`, copied from `templates/knowledge-index.example.md`) pointing at wherever that machine's real files live, plus real state files like the active book practice. `.local/` is gitignored — nothing in it should ever be committed here.
+Everything above is generic framework — it doesn't know Jenn's actual to-do list, strategy docs, goals, or any other personal/work content. The first time this is used on a machine, it builds a **local knowledge index** (`.local/knowledge-index.md`, copied from `templates/knowledge-index.example.md`) pointing at wherever that machine's real files live, plus real state files like the active book practice and any personal mid-year/EOY review prompts. `.local/` is gitignored — nothing in it should ever be committed here.
 
 ## Why a separate repo
 

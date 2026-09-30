@@ -1,12 +1,17 @@
-<!-- PLACEHOLDER — Jenn has a real template for this at work; swap this out once she brings it over.
-     Until then, /wrap-up uses this shape for the monthly log path in .local/knowledge-index.md. -->
+<!-- Source: plan-do-reflect-www, reflection-practice.html (#monthly-log). Public framework
+     content, not a placeholder — this is the actual Monthly Log format the site teaches.
+     /wrap-up uses this shape for the monthly log path in .local/knowledge-index.md. -->
 
 # Monthly Log — [Month YYYY]
 
-## Keeper Wins
-[Dated list of things worth remembering past the day they happened — named, narrated, shareable per her strategy/goals context. Not every daily log entry graduates here, only the ones worth carrying forward.]
+## Core Goals
+[Pick 2 — what are the two outcomes that would make this month count?]
 
-- [YYYY-MM-DD] — [win]
+## Growth Goals
+[Pick 2 — what two things do you want to be measurably better at by the end of the month?]
 
-## Themes
-[Anything that showed up more than once this month — a recurring blocker, a pattern in what worked]
+## Ideas & Open Threads
+[What's worth capturing now so it doesn't get lost: frustrations, ideas, things to revisit?]
+
+## End-of-Month Wins
+[What actually happened? Be specific: what got done, who helped, what's the evidence? — Proteus's `/wrap-up` Step 4b keeper-wins step feeds this section over the course of the month.]

@@ -29,7 +29,7 @@ Proteus is not a report generator. When a capability is actually connected (per 
 
 ### Morning — Plan
 - Pull today's open items from the to-do list (per the knowledge index) and check them against whatever operating principles the strategy/goals context defines — does today's list actually move the needle, or is it busywork that crept in?
-- Ask: what's the one thing today that, if it happened, would matter most against her current goals?
+- Ask: what's the one thing today that, if it happened, would matter most against her current goals? *(This is The ONE Thing's Focusing Question at day-scope — see Longer cadences below for the same question at every other scale.)*
 - If there's an active book practice (see below), surface today's version of it as one of the day's commitments — not a separate checklist.
 - Check the calendar for today's open slots (see "Takes action" above) and, if a protected block needs setting up, create it directly rather than just naming candidate times.
 
@@ -44,22 +44,28 @@ Proteus is not a report generator. When a capability is actually connected (per 
 - Write/append to the daily log. This can reuse `/wrap-up`'s file format, or `/wrap-up` itself could be extended to call this instead of its current generic "What We Did / What's Next."
 - *(From Deep Work, Cal Newport — see Standing mechanisms below: this evening step already functions as Newport's "shutdown ritual." Naming it as such is the only change; the behavior doesn't need to grow.)*
 
-## Longer cadences (week / month / quarter)
+## Longer cadences (week / month / quarter / year)
 
 The daily loop covers Plan/Do/Reflect for a single day. These sit above it — checked less often, on purpose, so the agent doesn't turn into a second to-do list.
 
 ### Weekly
 - **Protect one fixed deep-work block** (Deep Work, Cal Newport — his "rhythmic" scheduling style: same slot, every week, on the calendar like a standing meeting). Once a week, not daily: read the actual calendar (see "Takes action" above), confirm that slot is still there and still open, and if it got bumped or was never set up, find a real open slot and create it directly rather than just flagging the gap. First-time setup (picking the slot itself) is a one-time confirmation with Jenn; after that, re-protecting the same standing slot each week doesn't need to be re-confirmed unless it conflicts with something already booked.
+- **The Focusing Question at week-scope** (The ONE Thing, Gary Keller): what's the ONE thing this week that, if it happened, would make everything else on it easier or unnecessary? The answer is *what goes in* the protected block above — not a separate slot or a separate check.
 
 ### Monthly
-- At the monthly-log checkpoint (see `commands/wrap-up.md` Step 4b), add one reflection question: **did shallow work creep this month** — logistics, status meetings, reactive Slack — crowd out the deep-work block more weeks than not? (Deep Work's "drain the shallows.") This is a question inside the existing monthly log, not a new tracked item.
+- At the monthly-log checkpoint (see `commands/wrap-up.md` Step 4b, `templates/monthly-log.md`), add: **did shallow work creep this month** — logistics, status meetings, reactive Slack — crowd out the deep-work block more weeks than not? (Deep Work's "drain the shallows.")
+- Same Focusing Question, at month-scope, asked at the same checkpoint (The ONE Thing).
 
 ### Quarterly
 - Revisit **which scheduling style actually fits her role right now** — Monastic, Bimodal, Rhythmic, or Journalistic (Deep Work). Worth re-deciding occasionally as her role/meeting load shifts, not weekly. If the weekly deep-work block keeps getting bumped, that's the signal this check is overdue, not just "try harder to protect it."
+- Same Focusing Question at quarter-scope, framed with The ONE Thing's **counterbalance instead of balance**: lean hard into one priority for the quarter, then correct before the neglected areas suffer — rather than trying to hold everything level at once.
+
+### Yearly (new cadence)
+- The Focusing Question at its top scope — the someday-goal level everything else cascades down from (The ONE Thing). Checked rarely: annually, or around whatever natural review marker Jenn already has. Everything at the weekly/monthly/quarterly scale should answer to this, not the other way around.
 
 ## Standing mechanisms pulled from a one-pager (vs. temporary practices)
 
-Some one-pagers surface a mechanism durable enough to just become part of how Proteus operates — not a 1-2 week experiment to try and drop. The three Deep Work items above are the first example of this: Jenn asked directly for "a few key things worth pulling into the week/month/quarter/year agent," curated and folded straight into the design docs, rather than run through the practice-coach flow below.
+Some one-pagers surface a mechanism durable enough to just become part of how Proteus operates — not a 1-2 week experiment to try and drop. The Deep Work and The ONE Thing items above are the first examples of this: curated and folded straight into the design docs (Jenn reviewed and approved each set before it was written), rather than run through the practice-coach flow below. Left out deliberately, same reasoning both times: mental models worth knowing but not checkable mechanisms (Deep Work's attention residue/boredom tolerance; The ONE Thing's six lies and 80/20 framing).
 
 ## Book practice slot (from the one-pager coach)
 
@@ -72,7 +78,7 @@ At any time, at most one book's practice is "active" as a *temporary* experiment
 
 1. **Where it lives:** a Claude Project called **Proteus** (mobile). Drafting happens in this repo (`~/Projects/proteus`, checked into git so it's available on the work laptop too) — the Project gets built once the instructions are solid, not before.
 2. **`/wrap-up` stays `/wrap-up`.** Extended, not replaced or renamed — Jenn wants the same command name usable on both her personal machine and her work laptop (she has something similar there already and will rename it to match). See `commands/wrap-up.md` for the richer version: adds a book-practice check-in step and a keeper-wins-to-monthly-log step.
-3. **Keeper wins go to a monthly log**, at the path the knowledge index points to. Jenn has a real template for this at work; `templates/monthly-log.md` (this repo) is a generic placeholder until she brings that over.
+3. **Keeper wins go to a monthly log**, at the path the knowledge index points to. `templates/monthly-log.md` (this repo) is the Monthly Log format already published on `plan-do-reflect-www`'s Reflection Practice page (Core Goals, Growth Goals, Ideas & Open Threads, End-of-Month Wins) — public framework content, not a placeholder. The site's Quarterly Review format is explicitly reusable for a quarter, a half, or a full year, so `templates/quarterly-review.md` covers the quarterly check above and doubles as the base shape for mid-year/EOY reviews. Jenn's own extra mid-year/EOY prompts on top of that base are personal and go in `.local/reviews/` (gitignored) once she has them, not in this repo.
 
 ## Still open
 
