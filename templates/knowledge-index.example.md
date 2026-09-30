@@ -13,7 +13,11 @@ What it covers: <mandate, operating principles, current initiatives, north-star 
 Path(s): <...>
 
 ## Calendar tool
-How events get created: <e.g. a /calendar command, a direct API, manual>
+Read (checking real availability): <e.g. a connected Google/Outlook calendar tool, or "not connected — ask before proceeding">
+Write (creating/moving events): <e.g. a connected calendar tool, or "not connected — ask before proceeding">
+Notes: <anything Proteus should know about how to use it here — which calendar(s), any tool name/command>
+
+If either isn't connected on this machine, Proteus should ask Jenn for permission/setup once — not silently fall back to just suggesting times in chat forever.
 
 ## Daily log
 Path: <CONTEXT_DIR>/daily/YYYY-MM-DD.md
