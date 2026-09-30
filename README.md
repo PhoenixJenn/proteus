@@ -8,6 +8,10 @@ Named after the shape-shifting Greek sea god — the point of this agent is to c
 
 Design draft. Not yet built as a Claude Project. See `docs/daily-work-companion.md` for the full design and open questions.
 
+## Setup
+
+New to this repo (your own clone, or someone else's)? Start with **`start-here.md`** — it walks through the questions Proteus needs answered (calendar, to-do list, a "second brain" if you don't have one yet, goals/operating principles, review format, interruption sources, first book practice) and builds your machine's `.local/knowledge-index.md` from the answers. Written to work for anyone, not just the original author.
+
 ## Layout
 
 - `docs/` — design docs for the agent itself
