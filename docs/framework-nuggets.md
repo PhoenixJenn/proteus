@@ -22,3 +22,6 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### "I feel busy but I don't know where the time goes"
 **The 168-hour time log** (168 Hours, Laura Vanderkam): for one full week, record everything in half-hour increments, specifically (e.g. "made stir-fry," not "dinner"). At week's end, tally by category against what you assumed. A diagnostic to run occasionally, not a standing habit — most useful right before a quarterly or yearly review if the picture feels fuzzy.
+
+### Frustrated about something outside her control
+**Circle of Influence vs. Circle of Concern** (The 7 Habits of Highly Effective People, Stephen Covey): the Circle of Concern holds everything you worry about, most of which you can't control; the smaller Circle of Influence is what you can actually affect. Spending energy in the Concern circle shrinks the Influence circle over time; spending it inside Influence grows it. Useful alongside the strategy/goals-context check in Delegate or Decline — is this actually something to act on, or just something to stop dwelling on.

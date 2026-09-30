@@ -15,7 +15,8 @@ Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, to-do checkoff, conf
 ### Step 4a — Book practice check-in
 - Read `.local/pdr-active-practice.md` if it exists (gitignored; copy `state/pdr-active-practice.md`, the generic template in this repo, there on first use).
 - If there's an active practice: ask what actually happened against its commitments today (specific, not "how'd it go"), what worked, what didn't. Log the answer under that entry.
-- If it's been running long enough to judge (Jenn's call, don't impose a fixed number of days): ask whether to keep it running, adjust it, or retire it. A retired practice moves to the "Retired" section, not deleted.
+- **Skipped-twice check** (`docs/habit-formation.md`): if today's the second consecutive day the practice was skipped, say so directly — that's the actual signal, not each individual missed day. If it's genuinely not sticking, run the Rider/Elephant/Path diagnostic (same doc) instead of just asking "why" open-endedly.
+- Otherwise, once it's been running long enough to judge (Jenn's call, don't impose a fixed number of days): ask whether to keep it running, adjust it, or retire it. A retired practice moves to the "Retired" section, not deleted.
 - If nothing's active: skip silently, don't prompt her to start one — that happens when she hands over a new one-pager (see `docs/pdr-practice-coach.md`), not during wrap-up.
 
 ### Step 4b — Monthly log
