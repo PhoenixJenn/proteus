@@ -24,6 +24,12 @@ This is the lightweight tool for routine feedback. `hard-conversations.md`'s STA
 
 **What good coaching in the room actually requires.** (The Talent Code, Daniel Coyle — "master coaching") Deep knowledge of the skill's actual structure, sharp perceptiveness about where the learner currently is, quick corrective instincts, and blunt, honest feedback. Worth checking against directly before a 1:1 meant to develop someone, not just check in with them.
 
+**Receiving feedback well is a separate skill from giving it.** (No Rules Rules, Netflix's 4A model) Everything above covers delivery; this is the other half. The giver's job: Aim to Assist, make it Actionable. The receiver's job: Appreciate it without getting defensive, then explicitly decide whether to Accept or Discard it — not every piece of feedback has to be acted on, and naming that permission openly is what keeps people actually asking for it.
+
+**Kill the annual review, specifically.** (Powerful, Patty McCord) A third book, after Horstman and Zhuo, independently landing on frequent, specific, in-the-moment feedback over anything batched — McCord models it on how a sports coach talks to an athlete, not how HR writes a review.
+
+**Leaders go first with vulnerability.** (The Culture Code, Daniel Coyle) One honest admission of a mistake or a need for help from whoever's running the 1:1 invites a reciprocal one — this "vulnerability loop" is one of the strongest trust signals a relationship gets, and it has to start from the person with more power in the room, not wait for the other person to risk it first.
+
 ## Performance reviews should contain no surprises
 
 (The First-Time Manager) A formal review is a summary of things the person should have already heard, never the venue for new criticism. This is what closes the loop with what `/wrap-up` and `hard-conversations.md` already do: frequent lightweight feedback (above) + 1:1s run well + keeper wins already captured in **SBI**/**STARR** (`templates/sbi.md`, `templates/starr.md`) *is* the review, assembled from material that already exists — not a document written cold once or twice a year.
