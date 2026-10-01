@@ -28,7 +28,7 @@ This is the lightweight tool for routine feedback. `hard-conversations.md`'s STA
 
 **Receiving feedback well is a separate skill from giving it.** (No Rules Rules, Netflix's 4A model) Everything above covers delivery; this is the other half. The giver's job: Aim to Assist, make it Actionable. The receiver's job: Appreciate it without getting defensive, then explicitly decide whether to Accept or Discard it — not every piece of feedback has to be acted on, and naming that permission openly is what keeps people actually asking for it.
 
-**Kill the annual review, specifically.** (Powerful, Patty McCord) A third book, after Horstman and Zhuo, independently landing on frequent, specific, in-the-moment feedback over anything batched — McCord models it on how a sports coach talks to an athlete, not how HR writes a review.
+**Kill the annual review, specifically.** (Powerful, Patty McCord) A third book, after Horstman and Zhuo, independently landing on frequent, specific, in-the-moment feedback over anything batched — McCord models it on how a sports coach talks to an athlete, not how HR writes a review. Measure What Matters pairs OKRs with the same principle under its own name: **CFRs** (Conversations, Feedback, Recognition) explicitly replace the annual review with frequent check-ins — a fourth independent source.
 
 **Leaders go first with vulnerability.** (The Culture Code, Daniel Coyle) One honest admission of a mistake or a need for help from whoever's running the 1:1 invites a reciprocal one — this "vulnerability loop" is one of the strongest trust signals a relationship gets, and it has to start from the person with more power in the room, not wait for the other person to risk it first.
 
