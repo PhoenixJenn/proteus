@@ -85,3 +85,42 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Self-audit lens for how she comes across
 **Gravitas, Communication, Appearance** (Executive Presence, Sylvia Ann Hewlett): research-weighted roughly 2/3, 1/4, and a small remainder. Gravitas (composure, decisiveness, integrity under pressure) is the entry ticket; communication (voice, storytelling, reading the room) is what gets gravitas noticed at all; appearance removes a distraction but can't substitute for either. A periodic self-audit lens, not a daily check — useful alongside the quarterly personal-narrative check (`daily-work-companion.md`).
+
+### Before committing real time or resources to something
+**Premortem and failure analysis** (Think Like a Rocket Scientist, Ozan Varol): before launching, imagine the project has already failed and work backward to identify why — surfacing risks that optimism skips over while there's still time to act on them. After a real failure, extract the specific lesson rather than dwelling on it or rushing past it without one. One of the strongest tools in this whole batch — a genuine before/after pair, not just a before-the-fact check.
+
+### Stuck on the first framing of a problem
+**Reframe before you solve** (What's Your Problem, Thomas Wedell-Wedellsborg / Think Like a Rocket Scientist, Ozan Varol — two independent books converge here): the way a problem is first presented usually isn't the only way to frame it, and most wasted effort goes into solving the wrong framing. Reframe by asking what's being left out, who has a stake in it, where exceptions happen, and whether the real issue is adjacent to the stated one — the classic example: a building's "slow elevator" complaint got fixed with lobby mirrors, because the actual problem was that the wait felt boring, not that the elevator was slow.
+
+### Engaging with the unknown before committing
+**Embrace uncertainty, use thought experiments** (Think Like a Rocket Scientist, Ozan Varol): treat ambiguity as necessary raw material for a breakthrough, not something to eliminate before acting — certainty often isn't available up front, and waiting for it is its own decision. Before committing real resources, run an Einstein-style thought experiment: a specific, imagined scenario that stress-tests the idea cheaply. Pairs with the five-questions-for-a-tough-decision nugget above when the uncertainty is about a decision, not just an idea.
+
+### Breaking from "how it's always been done"
+**First-principles thinking** (Think Like a Rocket Scientist, Ozan Varol): instead of reasoning by analogy (copying what's worked before) or deferring to expert consensus, break the problem down to its most basic, verifiable truths and rebuild a solution from there. Expertise itself can become a trap — deep familiarity with one way of doing things can blind someone to a fresh approach, which is why some breakthroughs come from outsiders who haven't been grooved into the standard method.
+
+### A daily habit for staying creatively sharp
+**Collecting dots** (What's Next Is Now, Jeremy Pferdt): small, intentional daily choices — a different route, a conversation with someone outside the usual circle — gathered as raw material, then actively connected into novel ideas later. Curiosity and openness reframed as a trainable daily habit, not a fixed trait.
+
+### Looking for a breakthrough combination
+**Seek the intersection** (The Medici Effect, Frans Johansson / The Innovator's DNA, Jeff Dyer et al.): breakthrough ideas disproportionately happen where different fields, cultures, or disciplines collide — the brain defaults to familiar, within-field associations, which is exactly what blocks the non-obvious connection. Associational Thinking (the hub skill behind disruptive innovators) is fed by deliberately networking outside the usual industry/peer group, not by thinking harder within it.
+
+### Redesigning the environment instead of relying on willpower
+**Constraints produce creativity** (Inside the Box, Drew Boyd/Jacob Goldenberg): deliberately imposed constraints — of time, materials, budget, or choice — reliably produce better outcomes than unlimited freedom, because removing the easy default option forces real experimentation. Same mechanism as Switch's Path-problem fix in `habit-formation.md`: redesign the environment so the desired behavior becomes the easy one, rather than asking for more discipline.
+
+### Running a group brainstorm
+**IDEO's ground rules** (The Art of Innovation, Tom Kelley): sharpen the focus to a specific, customer-centered problem statement; post playful rules (defer judgment, encourage wild ideas); number ideas as they're generated to track volume; build on others' ideas rather than only adding new ones; keep the whole idea space visible on a shared surface; warm up with something unrelated before the real problem.
+
+### Finding process waste on a team
+**"What stupid rule would you kill?"** (Kill the Company, Lisa Bodell): a short, independent-first exercise — everyone writes down the one rule, report, or approval step that gets in the way of real work. Remove one as a test; if nothing breaks, the removal becomes permanent. Low-cost, concrete, and testable rather than a vague call for "less bureaucracy."
+
+### Finding the next buildable idea
+**The adjacent possible** (Where Good Ideas Come From, Steven Johnson): breakthrough innovation usually combines existing elements just past the current boundary of what's known or available, not a leap far beyond it. An idea can be correct and still be unbuildable if the surrounding technology/context hasn't caught up yet — worth checking whether an idea is actually one step out, or several.
+
+### Strategy/innovation work specifically
+**Jobs to be done, and sustaining vs. disruptive innovation** (The Innovator's Solution / The Innovator's Dilemma, Clayton Christensen): segment by the specific job a customer is trying to get done in context, not by demographics — the famous example being milkshakes bought by commuters as a one-handed, long-lasting companion for a boring drive, not a dessert. Separately: sustaining innovations improve what existing best customers already value (incumbents are naturally good at these); disruptive innovations start simpler, cheaper, and worse by mainstream standards, win over an overlooked segment first, then improve until they take the mainstream market too — by which point the incumbent's own good management, rationally serving its existing customers, is what blinded it.
+
+**MVP and build-measure-learn** (The Lean Startup, Eric Ries): ship the simplest version that allows one full turn of the loop, measure real behavior rather than opinions, then decide to persist or pivot. Speed of learning is the goal, not speed of building. Test under real, whole-system conditions, not isolated components (Think Like a Rocket Scientist) — an idealized test can miss the exact failure mode that would show up in the real one.
+
+**Explore/exploit ambidexterity** (Lead and Disrupt, O'Reilly/Tushman): the discipline that makes a core business successful actively blocks the exploration needed to build what's next — the fix is running both simultaneously, not sequentially. Most innovation programs only build one or two of three needed capabilities — ideation, incubation (protected teams testing against real customers), and scaling (integrating a proven venture without killing what made it work) — which is why splashy idea contests quietly stall with no path to scale a winner.
+
+**Just Cause as a north star** (The Infinite Game, Simon Sinek): a vision worth sacrificing for — tested against being for something, inclusive, service-oriented, resilient, and idealistic — functions as the thing every strategic decision gets measured against, replacing short-term metrics as the primary compass. Cross-references the strategy/goals-context check already in `delegate-or-decline.md`.
