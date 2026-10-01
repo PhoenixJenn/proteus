@@ -55,3 +55,15 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### "What am I actually supposed to be doing as a manager?"
 **Purpose, People, Process** (The Making of a Manager, Julie Zhuo): a small team run well comes down to three things — the team knows what success looks like and cares about it (purpose), trusting relationships and the right staffing/coaching calls (people), and meetings/decisions that don't repeat past mistakes (process). A simple frame to sort a tangle of manager to-dos into, when it's unclear which lever actually needs pulling.
+
+### Asking someone for something
+**Frame it in terms of what they want, not what you want** (How to Win Friends & Influence People, Dale Carnegie): the only reliable way to get someone to do something is to connect it to something they already want — not to argue them into agreement. Pairs with: skip direct criticism in favor of addressing the specific behavior, and make sure any appreciation offered is genuine, not flattery deployed to get the ask through.
+
+### Breaking into a conversation, or networking cold
+**The whozit opener and grapevine glory** (How to Talk to Anyone, Leil Lowndes): approach a stranger or a new group with a low-risk, easy question ("who's that?") rather than a line that puts pressure on the exchange. Separately: a compliment said *about* someone to a third party often lands harder once it circulates back than the same compliment said directly to their face.
+
+### Reading someone you don't know well
+**Truth-default and coupling** (Talking to Strangers, Malcolm Gladwell): people are wired to assume others are honest by default — which is usually the right call, and exactly why real deception is hard to catch when it happens. Separately, behavior is often tied to specific circumstances (place, access, method) rather than being a fixed trait of the person — removing the circumstance often removes the behavior. Don't over-explain someone's actions as simply "who they are."
+
+### Designing a milestone, onboarding, or team moment
+**Elevation, Insight, Pride, Connection** (The Power of Moments, Chip & Dan Heath): a memorable moment usually has at least one of these — a boosted sensory/surprise peak, a reframing realization, recognized accomplishment, or shared meaning with others. Pair with the **peak-end rule**: people remember an experience by its most intense point and its ending, not the average of the whole thing — worth deliberately engineering both rather than leaving them to chance.

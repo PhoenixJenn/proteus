@@ -11,6 +11,8 @@ An on-demand flow, same weight as `delegate-or-decline.md` and `habit-formation.
 - **Feelings** — acknowledge them, on both sides, rather than suppressing them to "stay professional."
 - **Identity** — the silent question underneath: am I competent, am I good, am I worthy? Performance conversations in particular are identity conversations whether anyone names it or not.
 
+Caution while diagnosing (Talking to Strangers, Malcolm Gladwell): someone's demeanor — calm, nervous, good eye contact or none — doesn't reliably reveal what's actually true for them. The "illusion of transparency" leads people to over-read a person's visible reaction as evidence, in either direction. Diagnose from what was said and done, not from how someone looked while saying it.
+
 **2. If this is about a broken promise or missed expectation, calibrate the severity first.** (Crucial Accountability)
 - **Content** — a single instance. One conversation, addressed directly, done.
 - **Pattern** — it's happened before. Name the pattern itself, not just the latest instance — "this is the third time" is a different conversation than "this happened."
