@@ -20,7 +20,8 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `framework-nuggets.md` — pre-curated "best of" situational frameworks from the one-pagers, for live conversation — curated once per book, not searched live (keeps token cost off every conversation)
   - `delegate-or-decline.md` — a decision flow spanning several one-pagers (core-competency filter, ABCDE tagging, capacity check, actual no-tactics), run both on-demand and proactively during the Weekly Review
   - `habit-formation.md` — how any new habit gets set up (habit stacking, the Four Laws) and diagnosed if it's slipping (Rider/Elephant/Path, Drive's Autonomy/Mastery/Purpose) — wired into the book-practice coach and `/wrap-up`, not a standalone cadence
-  - `hard-conversations.md` — a flow for any hard conversation (feedback, accountability, conflict, performance reviews, 1:1s) — STATE/CRIB, a three-books-deep listening technique, and a difficult-behavior playbook
+  - `hard-conversations.md` — a flow for feedback, accountability, and conflict that's already hard (or might become so) — STATE/CRIB, a three-books-deep listening technique, and a difficult-behavior playbook
+  - `one-on-ones.md` — the routine, scheduled counterpart: 1:1 structure (another independent three-book convergence), lightweight frequent feedback, task-relevant-maturity delegation, and "no surprises" performance reviews built from material already captured, not written cold
 - `commands/` — Claude Code slash commands that support the agent
   - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running

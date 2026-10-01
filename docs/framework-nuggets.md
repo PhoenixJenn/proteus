@@ -49,3 +49,9 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Giving feedback that actually lands
 **Praise the process, not the trait** (Mindset, Carol Dweck): "the approach you took on X worked because..." is repeatable and improvable; "you're so good at X" reads as a verdict on the person, not something they did. This is the framing check behind `hard-conversations.md`'s feedback step — most useful for performance reviews and 1:1s, where the identity stakes are highest.
+
+### Restructuring a team
+**Four team types + Conway's Law** (Team Topologies, Matthew Skelton/Manuel Pais): stream-aligned teams own a slice of value end-to-end, platform teams build self-service capabilities for others, enabling teams are temporary specialists who close a gap and move on, complicated-subsystem teams own something that genuinely needs deep specialist knowledge. Conway's Law says the team structure will eventually become the shape of whatever the team produces, whether anyone plans it or not — worth treating as a design input, not just an observation after the fact.
+
+### "What am I actually supposed to be doing as a manager?"
+**Purpose, People, Process** (The Making of a Manager, Julie Zhuo): a small team run well comes down to three things — the team knows what success looks like and cares about it (purpose), trusting relationships and the right staffing/coaching calls (people), and meetings/decisions that don't repeat past mistakes (process). A simple frame to sort a tangle of manager to-dos into, when it's unclear which lever actually needs pulling.
