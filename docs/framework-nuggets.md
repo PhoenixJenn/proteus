@@ -67,3 +67,21 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Designing a milestone, onboarding, or team moment
 **Elevation, Insight, Pride, Connection** (The Power of Moments, Chip & Dan Heath): a memorable moment usually has at least one of these — a boosted sensory/surprise peak, a reframing realization, recognized accomplishment, or shared meaning with others. Pair with the **peak-end rule**: people remember an experience by its most intense point and its ending, not the average of the whole thing — worth deliberately engineering both rather than leaving them to chance.
+
+### Reading a room — daily use, in any meeting
+**Baseline, then deviation** (Louder Than Words, Joe Navarro): don't look for universal body-language "tells" — learn how a specific person normally behaves, then watch for a change from *their* baseline (new tension, pulling away, a foot angled toward the exit) as the actual signal of rising discomfort or disagreement. (Pairs with — and corrects for — the illusion-of-transparency caution already in `hard-conversations.md`: this is the more rigorous version of reading someone, not a reason to stop reading them at all.) Her own open posture, steady eye contact, and controlled gestures are read as authority before she says a word — the same mechanism, running in the other direction.
+
+### Every interaction — daily use
+**Connect before you lead** (Leadership Presence, HBR): people judge warmth before they judge competence. Leading with warmth earns a later display of strength or competence the benefit of the doubt as confidence rather than arrogance — reversed, the same competence reads as cold or aggressive. Applies to literally any interaction, not just a specific hard moment.
+
+### Checking her own communication — ongoing self-monitor, not a one-time fix
+**Leaking power** (Power & Impact): over-apologizing, hedging language, and not taking credit for her own work quietly erode influence over time, independent of the actual quality of the work. Worth a running check on emails, comments, and how she narrates her own contributions — small, repeated habits, not a single bad moment.
+
+### Knowing where her influence actually comes from
+**Four power styles** (Power & Impact): formal authority, expertise, relationships, and reputation are different sources of influence, and most people lean heavily on one. A leader who relies mainly on formal authority may have little pull outside their direct chain — knowing which style is the default makes it clearer which of the other three is worth deliberately building.
+
+### A deeper reflection than the usual review questions
+**Four regret categories** (The Power of Regret, Daniel Pink): Foundation (not doing the steady work), Boldness (not taking a chance), Moral (choosing wrong over right), and Connection (letting a relationship lapse) — mapping to the needs for stability, growth, goodness, and love. Regrets of inaction outlast regrets of action over time, which is itself worth sitting with. Best run at the Yearly cadence (`daily-work-companion.md`), not daily — this is a bigger question than a routine check-in.
+
+### Self-audit lens for how she comes across
+**Gravitas, Communication, Appearance** (Executive Presence, Sylvia Ann Hewlett): research-weighted roughly 2/3, 1/4, and a small remainder. Gravitas (composure, decisiveness, integrity under pressure) is the entry ticket; communication (voice, storytelling, reading the room) is what gets gravitas noticed at all; appearance removes a distraction but can't substitute for either. A periodic self-audit lens, not a daily check — useful alongside the quarterly personal-narrative check (`daily-work-companion.md`).
