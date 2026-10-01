@@ -139,3 +139,12 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Stuck waiting to feel ready for a personal change
 **Movement precedes clarity** (Who Moved My Cheese?, Spencer Johnson): taking action into the uncertainty reduces fear faster than waiting until the fear subsides does — the same finding as the "don't wait for motivation" line already in `habit-formation.md`, from a different angle (adapting to an external change, not building a habit). Pairs with "smell the cheese often": periodically check whether the current situation is still actually working, instead of waiting for it to visibly break before responding.
+
+### Recognizing her own mentoring/management style
+**Three superboss styles** (Superbosses, Sydney Finkelstein): Iconoclasts mentor almost by osmosis, drawing talent into their creative orbit; intensely competitive leaders push people past what they think they can do; Nurturers deliberately and supportively develop careers. The point isn't to pick a style to copy — it's recognizing which one already fits her own temperament, rather than forcing a style that isn't natural.
+
+### What's actually driving satisfaction — hers or someone she manages
+**Hygiene factors vs. motivators** (How Will You Measure Your Life, Clayton Christensen, drawing on Herzberg): salary, status, and working conditions are hygiene factors — their absence causes dissatisfaction, but more of them doesn't create satisfaction past a point. Meaningful work, growth, and recognition are the actual motivators. Complements Drive's Autonomy/Mastery/Purpose, already folded into `habit-formation.md`'s Elephant-problem diagnosis — a different cut on the same territory.
+
+### Finding out what she actually prioritizes, not what she says she does
+**Resource allocation is the real strategy** (How Will You Measure Your Life, Clayton Christensen): a person's true priorities aren't what they claim to value, they're where time, energy, and money actually go day to day — the same logic a company's real strategy is revealed by thousands of small resourcing decisions, not its official plan. Pairs directly with the 168-hour time log nugget above: that's the instrument for actually measuring where this is true or false, rather than guessing.

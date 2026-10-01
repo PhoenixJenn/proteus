@@ -1,10 +1,10 @@
 # One-on-Ones
 
-A fourth cross-cutting mechanism, alongside `delegate-or-decline.md`, `habit-formation.md`, and `hard-conversations.md` — but tied to a fixed weekly rhythm rather than purely on-demand, since 1:1s are recurring calendar events. The material here converges unusually hard: three independent books (High Output Management, The Effective Manager, The Making of a Manager) land on the same core structure without citing each other.
+A fourth cross-cutting mechanism, alongside `delegate-or-decline.md`, `habit-formation.md`, and `hard-conversations.md` — but tied to a fixed weekly rhythm rather than purely on-demand, since 1:1s are recurring calendar events. The material here converges unusually hard: four independent books (High Output Management, The Effective Manager, The Making of a Manager, and now Radical Candor) land on the same core structure without citing each other.
 
 ## The convergent finding
 
-**Run the 1:1 on the direct's agenda, not the manager's.** Andy Grove (High Output Management), Bret Horstman (The Effective Manager), and Julie Zhuo (The Making of a Manager) all independently arrive at this. Grove's framing is the sharpest: a 1:1 is coaching and a chance to surface problems early, not a status report — if it feels like a status update, something's already gone wrong with the format.
+**Run the 1:1 on the direct's agenda, not the manager's.** Andy Grove (High Output Management), Bret Horstman (The Effective Manager), Julie Zhuo (The Making of a Manager), and Kim Scott (Radical Candor — "1:1s belong to the employee," the manager mostly listening and asking how can I help) all independently arrive at this. Grove's framing is the sharpest: a 1:1 is coaching and a chance to surface problems early, not a status report — if it feels like a status update, something's already gone wrong with the format.
 
 ## Structure
 
@@ -14,9 +14,15 @@ Either shape works; pick based on fit, don't run both at once:
 
 ## Feedback — lightweight, frequent, separate from Hard Conversations' heavier tool
 
+**Before anything else, find out which of three things they actually want.** (Let's Talk, Therese Huston) Appreciation (effort was seen), coaching (concrete suggestions to improve), or evaluation (where they stand against a standard). Giving evaluation when someone wanted appreciation, or vice versa, is one of the most common reasons feedback lands badly — ask, or read the moment, before choosing which of the tools below to use.
+
 **Give it same-day or within the week, not batched for a review.** (Horstman, Zhuo — both independently say this.) The everyday script (Horstman): ask permission to give feedback, describe the specific behavior, state its impact, ask for the behavior you want going forward. Four steps, memorized, repeatable — deliberately plain so it's teachable and consistent rather than improvised each time.
 
 This is the lightweight tool for routine feedback. `hard-conversations.md`'s STATE is the heavier tool for when stakes are high enough that safety, not just clarity, is the concern. Most feedback should need only this one; reach for STATE when this one isn't enough. Whichever tool is in use, check the framing against the "praise the process, not the trait" nugget (`framework-nuggets.md`, Mindset) before delivering it — the identity stakes are highest in exactly this kind of routine, repeated feedback.
+
+**The target quadrant: Radical Candor** (Kim Scott) — plot any feedback interaction on two axes, how much you're caring personally and how directly you're challenging. High on both is Radical Candor; high care/low challenge is Ruinous Empathy (feels kind, helps no one); low care/high challenge is Obnoxious Aggression; low on both is Manipulative Insincerity. It's a compass for a single interaction, not a permanent label on a person — the everyday script above and STATE in `hard-conversations.md` are both just tools for landing in the high/high quadrant. Two concrete practices from the same book: praise publicly, criticize privately; and not every strong performer wants the promotion track — some ("rock stars") want to master and stabilize in a role, others ("superstars") want continuous new challenge, and conflating the two is a common misread (cross-references task-relevant maturity below — same idea, applied to career trajectory instead of a single task).
+
+**What good coaching in the room actually requires.** (The Talent Code, Daniel Coyle — "master coaching") Deep knowledge of the skill's actual structure, sharp perceptiveness about where the learner currently is, quick corrective instincts, and blunt, honest feedback. Worth checking against directly before a 1:1 meant to develop someone, not just check in with them.
 
 ## Performance reviews should contain no surprises
 
@@ -25,6 +31,8 @@ This is the lightweight tool for routine feedback. `hard-conversations.md`'s STA
 ## Delegation style — set by the task, not the person's seniority
 
 (High Output Management — task-relevant maturity) The right level of direction depends on someone's skill and experience on *this specific task*, not their title or general trust level. Low task-relevant maturity gets structured, directive instruction; high task-relevant maturity gets near-full delegation. The same person can need close direction on something new while getting full autonomy on what they've already mastered — reassess per task, not once per person. Cross-references `delegate-or-decline.md`'s "name who it should go to instead" step: this is the lens for *how much* to direct them once a name is picked, not just who.
+
+Superbosses (Sydney Finkelstein) pushes this further than feels safe by default: give people real ownership and stretch assignments *before* they look ready, treating the stretch itself as the primary development tool rather than something earned only after competence is already proven.
 
 ## New-manager specifics
 

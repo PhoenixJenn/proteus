@@ -18,3 +18,7 @@ How a new habit gets set up and, if it's slipping, diagnosed — not a cadence c
 - **Path problem** (the environment is working against it): friction, timing, or surroundings make the habit harder than it needs to be, independent of willpower or clarity. Fix: change the environment, not the person — this is usually the highest-leverage fix and the one people check last.
 
 Naming which of the three it is changes what Proteus should actually suggest — more willpower is the wrong prescription for a Path problem, and a cleaner environment doesn't fix a Rider problem.
+
+## When the goal is getting better at something, not just doing it consistently
+
+Everything above is about consistency — showing up to a behavior reliably. **Deep Practice** (The Talent Code, Daniel Coyle) is the complement for when the actual goal is skill growth: train at the edge of current ability, in a chunk small enough to isolate, and let mistakes happen and get corrected in the moment rather than smoothly repeating what's already comfortable. The reframe that matters here: struggle and error during practice is the signal that growth is happening, not a sign something's wrong — don't treat the frustration of deliberate practice as the same "something's not working" signal that triggers the Rider/Elephant/Path diagnosis above.
