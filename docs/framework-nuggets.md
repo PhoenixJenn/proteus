@@ -39,7 +39,7 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 **Runners, Joggers, Walkers, Riders** (Move Your Bus, Ron Clark): Runners are high-effort top performers, Joggers are steady but lack the confidence to push harder, Walkers contribute minimally and resist change, Riders are dead weight who only perform when watched. Naming which one someone actually is changes what kind of conversation helps — a Jogger needs confidence-building, a Rider needs direct accountability, and treating one as the other usually goes nowhere.
 
 ### Digging into a debate or a strongly-held opinion
-**Think like a scientist, not a preacher, prosecutor, or politician** (Think Again, Adam Grant): a preacher defends sacred beliefs, a prosecutor attacks the other side's view to win, a politician tells people what they want to hear — a scientist treats their own opinion as a hypothesis, actively looks for disconfirming evidence, and updates when the evidence warrants it. Pairs well with the five-questions-for-a-tough-decision nugget above when the "decision" is really about whether to change her own mind.
+**Think like a scientist, not a preacher, prosecutor, or politician** (Think Again, Adam Grant): a preacher defends sacred beliefs, a prosecutor attacks the other side's view to win, a politician tells people what they want to hear — a scientist treats their own opinion as a hypothesis, actively looks for disconfirming evidence, and updates when the evidence warrants it. Pairs well with the five-questions-for-a-tough-decision nugget above when the "decision" is really about whether to change her own mind. The formal version of the same move (Algorithms to Live By — **Bayesian updating**): combine what she already believed with each new piece of evidence incrementally, rather than treating every new data point as if it arrived in a vacuum.
 
 ### Making a point land — writing or speaking
 **"I believe that..." / "So what?" / "Why?"** (Get to the Point!, Brant Pinvidic — from the Communication corpus): a vague topic isn't a point. State it as a defensible assertion starting with "I believe that," then stress-test it — is it consequential enough to matter (so what), and can it actually be defended (why) — until it's sharp enough to organize a message around.
@@ -157,3 +157,24 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Building an actually inclusive team or process
 **Redesign the system, not the intentions** (Actions Speak Louder / Beyond Diversity / Inclusion — three books converge on this): default recruitment, interview, and retention processes reproduce whoever already succeeds in them, regardless of stated values or a mission statement. Actions Speak Louder's countermeasure — structured, standardized interview questions in place of open-ended ones that reward candidates who resemble existing employees — is the most concrete, immediately usable piece. The underlying move is the same one as a premortem: find where the default process is quietly working against the stated goal, before assuming good intentions will be enough.
+
+### Choosing when to stop searching and commit
+**The 37% rule** (Algorithms to Live By, Brian Christian/Tom Griffiths): when choosing sequentially among options she can't revisit once passed on — hiring, apartment hunting, how long to keep evaluating before committing — spend the first 37% of the expected search purely gathering information without committing, then choose the next option that beats everything seen in that phase. Drawn from the mathematics of the secretary problem; it maximizes the odds of landing the actual best option under those constraints, not just a good-enough one.
+
+### Clearing out stale commitments
+**Caching, least recently used** (Algorithms to Live By): keep the most-used items or information closest at hand, and periodically clear out what hasn't been touched in a long time. The computing version of what the existing Weekly Review (`daily-work-companion.md`) already does by hand — a stale, untouched commitment is exactly what that pass should be finding.
+
+### Stuck on a problem that feels impossible
+**Relaxation** (Algorithms to Live By): temporarily drop one hard constraint, solve the easier version of the problem that remains, then use that solution as a starting point for the real one. A different move than the reframe-before-you-solve nugget above — this doesn't change how the problem is framed, it removes a piece of it on purpose to get unstuck, then puts the piece back.
+
+### Before finalizing a real decision
+**The 4-step check** (The Art of Strategic Decision-Making): Widen the options beyond the first ones that come to mind, Reality-test the assumptions against outside evidence, Attain distance before deciding (don't decide in the heat of the moment), and Prepare to be wrong by naming in advance what would signal the decision is failing. That last step is a lighter, ongoing cousin of the premortem nugget above — a standing tripwire instead of a one-time pre-launch exercise.
+
+### Working through a decision alone or with a group
+**Six Thinking Hats**: deliberately rotate through six perspectives before settling — facts, emotion, caution, optimism, creativity, and process — rather than defaulting to whichever one comes most naturally. Useful specifically when a decision keeps getting stuck in just one or two of these modes (all caution, or all optimism) without anyone noticing.
+
+### Protecting decision quality across a long day
+**Decision fatigue**: repeated decision-making depletes the quality of later choices, making them more impulsive or lower-quality regardless of their actual importance. Reinforces why Deep Work's protected block and anything that actually matters belongs early in the day, not squeezed in after everything else.
+
+### Evaluating a success story or "what worked for them" advice
+**Survivorship bias, the actionable version** (The Art of Thinking Clearly, Rolf Dobelli): before adopting a winner's habits or strategy, deliberately go looking for people who did the same thing and failed — failures are invisible in most success stories by default. Only if their approach looks meaningfully different from the winner's does the strategy look causally credible rather than just lucky. Worth checking alongside two of the book's other common traps: the **sunk cost fallacy** (continuing something because of what's already invested, not its future value) and **loss aversion** (losses feel roughly twice as painful as equivalent gains feel good, which quietly skews everyday risk-taking toward excess caution).
