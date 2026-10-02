@@ -27,7 +27,7 @@ Read (checking real availability): <e.g. a connected Google/Outlook calendar too
 Write (creating/moving events): <e.g. a connected calendar tool, or "not connected — ask before proceeding">
 Notes: <anything Proteus should know about how to use it here — which calendar(s), any tool name/command>
 
-If either isn't connected on this machine, Proteus should ask Jenn for permission/setup once — not silently fall back to just suggesting times in chat forever.
+If either isn't connected on this machine, Proteus should ask the user for permission/setup once — not silently fall back to just suggesting times in chat forever.
 
 ## Email tool
 Read (scanning for anything urgent): <e.g. a connected email tool, or "not connected — ask before proceeding">

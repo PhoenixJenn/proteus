@@ -1,8 +1,8 @@
 # Proteus
 
-An agent that helps Jenn actually run Plan-Do-Reflect on her own workday: staying focused on what matters, protecting her calendar, documenting and reflecting daily, and putting the `plan-do-reflect-www` one-pagers into practice one book at a time.
+An agent that helps you actually run Plan-Do-Reflect on your own workday: staying focused on what matters, protecting your calendar, documenting and reflecting daily, and putting the `plan-do-reflect-www` one-pagers into practice one book at a time.
 
-Named after the shape-shifting Greek sea god — the point of this agent is to change how Jenn works, not just track it.
+Named after the shape-shifting Greek sea god — the point of this agent is to change how you work, not just track it.
 
 ## Status
 
@@ -22,7 +22,7 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `habit-formation.md` — how any new habit gets set up (habit stacking, the Four Laws) and diagnosed if it's slipping (Rider/Elephant/Path, Drive's Autonomy/Mastery/Purpose) — wired into the book-practice coach and `/wrap-up`, not a standalone cadence
   - `hard-conversations.md` — a flow for feedback, accountability, and conflict that's already hard (or might become so) — STATE/CRIB, a three-books-deep listening technique, and a difficult-behavior playbook
   - `one-on-ones.md` — the routine, scheduled counterpart: 1:1 structure (another independent three-book convergence), lightweight frequent feedback, task-relevant-maturity delegation, and "no surprises" performance reviews built from material already captured, not written cold
-  - `post-meeting-capture.md` — a fast, numbered post-meeting check (outcomes, action items, priorities, feelings, people observations, her own presence, a keeper win, a harder-conversation flag) that routes each answer to wherever it belongs rather than being its own record. Found as a gap during a live role-play test, not sourced from a book.
+  - `post-meeting-capture.md` — a fast, numbered post-meeting check (outcomes, action items, priorities, feelings, people observations, your own presence, a keeper win, a harder-conversation flag) that routes each answer to wherever it belongs rather than being its own record. Found as a gap during a live role-play test, not sourced from a book.
   - `going-live.md` — what actually building this as a Claude Project involves: the custom-instructions/knowledge-file split, the `.local/knowledge-index.md` problem on a filesystem-less Project, which connectors are confirmed working vs. need checking, and the day-to-day usage scenarios
 - `commands/` — Claude Code slash commands that support the agent
   - `good-morning.md` — Morning Plan: processes the Inbox, checks calendar, runs `/whats-new`, asks the Focusing Question, protects a block — plus the Weekly cadence (Weekly Review, Delegate or Decline across the whole list, 1:1 calendar check) on the week's first run
@@ -34,14 +34,14 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `last-checked.md` — template for the per-channel last-checked timestamps `/whats-new` and `/good-morning` read and update
 - `templates/` — reusable templates, sourced from `plan-do-reflect-www`'s own published framework where one exists — public content, not placeholders
   - `monthly-log.md` — the Monthly Log format from Reflection Practice (Core Goals, Growth Goals, Ideas & Open Threads, End-of-Month Wins)
-  - `quarterly-review.md` — the Quarterly Review format, explicitly reusable for a quarter/half/full year — also the base shape for mid-year/EOY reviews (Jenn's own extra prompts for those go in `.local/reviews/`, gitignored, once she has them)
+  - `quarterly-review.md` — the Quarterly Review format, explicitly reusable for a quarter/half/full year — also the base shape for mid-year/EOY reviews (your own extra prompts for those go in `.local/reviews/`, gitignored, once you have them)
   - `sbi.md` / `starr.md` — the site's own accomplishment-capture formats (quick vs. detailed), used to shape keeper wins into material a real performance review can draw from
   - `knowledge-index.example.md` — the shape of the local knowledge index (see below)
 
 ## No internal knowledge lives in this repo
 
-Everything above is generic framework — it doesn't know Jenn's actual to-do list, strategy docs, goals, or any other personal/work content. The first time this is used on a machine, it builds a **local knowledge index** (`.local/knowledge-index.md`, copied from `templates/knowledge-index.example.md`) pointing at wherever that machine's real files live, plus real state files like the active book practice and any personal mid-year/EOY review prompts. `.local/` is gitignored — nothing in it should ever be committed here.
+Everything above is generic framework — it doesn't know your actual to-do list, strategy docs, goals, or any other personal/work content. The first time this is used on a machine, it builds a **local knowledge index** (`.local/knowledge-index.md`, copied from `templates/knowledge-index.example.md`) pointing at wherever that machine's real files live, plus real state files like the active book practice and any personal mid-year/EOY review prompts. `.local/` is gitignored — nothing in it should ever be committed here.
 
 ## Why a separate repo
 
-This needs to work from both Jenn's personal machine and her work laptop, which is exactly what the framework/`.local/` split above is for — the tracked framework is identical on both machines, and each machine's `.local/knowledge-index.md` points at that machine's own context.
+This is meant to work from more than one machine (a personal laptop and a work laptop, for instance), which is exactly what the framework/`.local/` split above is for — the tracked framework is identical on every machine, and each machine's `.local/knowledge-index.md` points at that machine's own context.

@@ -4,10 +4,10 @@ A fifth cross-cutting mechanism, on-demand right after any meeting — not a cad
 
 ## The prompt
 
-Delivered as a short numbered list Jenn can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
+Delivered as a short numbered list the user can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
 
 1. **Outcomes** — what was actually decided, and what happened?
-2. **Action items** — what's now on someone's plate, and whose? (Anything not hers runs through `delegate-or-decline.md`'s full flow since it's already a named decision, not a fresh capture; anything hers goes into the to-do list's **Inbox** — captured now, clarified and prioritized at the next Morning Plan, not decided on the spot.)
+2. **Action items** — what's now on someone's plate, and whose? (Anything not the user's own runs through `delegate-or-decline.md`'s full flow since it's already a named decision, not a fresh capture; anything that is theirs goes into the to-do list's **Inbox** — captured now, clarified and prioritized at the next Morning Plan, not decided on the spot.)
 3. **Goal contribution** — did this meeting actually serve one of the named goals in `.local/knowledge-index.md`'s Goals list — which one, or none? A direct tag against a real name, not a vibe-check, and it's allowed to be "none."
 4. **Priorities** — does anything here change or confirm what matters most right now?
 5. **How do you feel** — any reaction worth naming (frustrated, energized, uneasy, relieved)?
@@ -19,12 +19,12 @@ Delivered as a short numbered list Jenn can answer quickly, not an open-ended na
 ## Where each answer actually goes
 
 - **Outcomes** → the daily log (done-list, per `daily-work-companion.md`'s Evening Reflect) — this is raw material for that, not a separate record.
-- **Action items** → the to-do list's Inbox if hers (captured, not yet triaged — `delegate-or-decline.md`'s Capture/Clarify/Organize note); `delegate-or-decline.md`'s full flow right now if there's a live question about whether it's hers at all.
+- **Action items** → the to-do list's Inbox if it's the user's own (captured, not yet triaged — `delegate-or-decline.md`'s Capture/Clarify/Organize note); `delegate-or-decline.md`'s full flow right now if there's a live question about whether it's theirs at all.
 - **Goal contribution** → logged against the daily log entry for this meeting, specifically so Evening Reflect's time-value rollup (`daily-work-companion.md`) has real tags to aggregate instead of reconstructing the day from memory at night.
 - **Priorities** → cross-check against the day's Focusing Question (`daily-work-companion.md`, Morning Plan) — if it's changed, that's worth knowing before the day's plan goes stale.
-- **Feelings** → no separate record unless it's substantial; the point is naming it, not journaling it, unless she's running the three-EQ-journals habit (`framework-nuggets.md`) already.
-- **People observations** → informs how she handles any 1:1 or follow-up with that person (`one-on-ones.md`), not filed away as a one-off.
-- **Her own presence** → the quarterly personal-narrative/brand check (`daily-work-companion.md`, Quarterly) is where a pattern across several of these would actually get acted on — a single meeting's answer here is just a data point, not a verdict.
+- **Feelings** → no separate record unless it's substantial; the point is naming it, not journaling it, unless the three-EQ-journals habit (`framework-nuggets.md`) is already running.
+- **People observations** → informs how the user handles any 1:1 or follow-up with that person (`one-on-ones.md`), not filed away as a one-off.
+- **Their own presence** → the quarterly personal-narrative/brand check (`daily-work-companion.md`, Quarterly) is where a pattern across several of these would actually get acted on — a single meeting's answer here is just a data point, not a verdict.
 - **Keeper win** → `templates/sbi.md`, same as `/wrap-up`'s existing keeper-wins step — this is actually the same mechanism, just triggered by a meeting instead of end-of-day.
 - **Harder conversation flag** → `hard-conversations.md`, run separately and later, not in the heat of capturing notes.
 

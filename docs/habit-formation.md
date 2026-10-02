@@ -1,6 +1,6 @@
 # Habit Formation
 
-How a new habit gets set up and, if it's slipping, diagnosed — not a cadence check itself, but the mechanism two existing pieces run through: `pdr-practice-coach.md`'s Plan step (starting a new book practice) and `commands/wrap-up.md`'s Step 4a (checking on one that's already running). Also usable on-demand any time Jenn wants to build a habit that isn't tied to a book at all.
+How a new habit gets set up and, if it's slipping, diagnosed — not a cadence check itself, but the mechanism two existing pieces run through: `pdr-practice-coach.md`'s Plan step (starting a new book practice) and `commands/wrap-up.md`'s Step 4a (checking on one that's already running). Also usable on-demand any time the user wants to build a habit that isn't tied to a book at all.
 
 ## Setting it up
 
@@ -14,7 +14,7 @@ How a new habit gets set up and, if it's slipping, diagnosed — not a cadence c
 
 **4. When it's genuinely not sticking, diagnose before you re-negotiate the commitment.** (Switch, Chip & Dan Heath — the Rider, the Elephant, and the Path)
 - **Rider problem** (the rational side lacks clarity): the habit itself is vague or the next action isn't concrete. Fix: make the instruction more specific, not more motivating.
-- **Elephant problem** (the emotional side isn't on board): there's no real desire behind it, or it's fighting discomfort with nothing pulling the other way. Check it against Drive's three components (Daniel Pink) before guessing at a fix: is it missing **Autonomy** (it feels imposed rather than chosen), **Mastery** (no visible sense of getting better at it), or **Purpose** (it doesn't connect to anything Jenn actually cares about)? Fix whichever is actually missing, or shrink the habit until it's easy enough that motivation isn't load-bearing at all.
+- **Elephant problem** (the emotional side isn't on board): there's no real desire behind it, or it's fighting discomfort with nothing pulling the other way. Check it against Drive's three components (Daniel Pink) before guessing at a fix: is it missing **Autonomy** (it feels imposed rather than chosen), **Mastery** (no visible sense of getting better at it), or **Purpose** (it doesn't connect to anything the user actually cares about)? Fix whichever is actually missing, or shrink the habit until it's easy enough that motivation isn't load-bearing at all.
 - **Path problem** (the environment is working against it): friction, timing, or surroundings make the habit harder than it needs to be, independent of willpower or clarity. Fix: change the environment, not the person — this is usually the highest-leverage fix and the one people check last.
 
 Naming which of the three it is changes what Proteus should actually suggest — more willpower is the wrong prescription for a Path problem, and a cleaner environment doesn't fix a Rider problem.

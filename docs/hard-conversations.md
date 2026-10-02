@@ -1,6 +1,6 @@
 # Hard Conversations
 
-An on-demand flow, same weight as `delegate-or-decline.md` and `habit-formation.md` — Jenn brings Proteus a conversation she needs to have (feedback, an accountability conversation, a conflict, a performance review, a 1:1 that's going to be hard) or one that already went badly, and it works through the flow below. The material behind this converges hard: three independent books (Supercommunicators, High Conflict, Never Split the Difference) land on the same core listening technique, which is a stronger signal than any one book alone.
+An on-demand flow, same weight as `delegate-or-decline.md` and `habit-formation.md` — the user brings Proteus a conversation they need to have (feedback, an accountability conversation, a conflict, a performance review, a 1:1 that's going to be hard) or one that already went badly, and it works through the flow below. The material behind this converges hard: three independent books (Supercommunicators, High Conflict, Never Split the Difference) land on the same core listening technique, which is a stronger signal than any one book alone.
 
 **Performance reviews and 1:1s run through this flow too** — they're just a scheduled, lower-stakes version of the same thing. Crucial Accountability's diagnostic (step 2 below) and Difficult Conversations' three layers (step 1) are the actual mechanism for feedback conversations, not something separate. See also `templates/sbi.md` / `templates/starr.md` — captured wins already in that shape (from `/wrap-up`) are the raw material a real performance review draws from.
 
@@ -32,4 +32,4 @@ Caution while diagnosing (Talking to Strangers, Malcolm Gladwell): someone's dem
 
 ## What this isn't
 
-Not a script to read verbatim, and not a cadence check — nothing here runs on a schedule. A reusable process, applied when Jenn brings a real situation to it.
+Not a script to read verbatim, and not a cadence check — nothing here runs on a schedule. A reusable process, applied when the user brings a real situation to it.

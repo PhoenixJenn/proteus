@@ -1,6 +1,6 @@
 <!-- Source: plan-do-reflect-www, reflection-practice.html (#quarterly-review). Public framework
      content. The site frames this as reusable for a quarter, a half, or a full year — so this
-     is also the base shape for mid-year/EOY reviews. Jenn's own extra prompts specific to
+     is also the base shape for mid-year/EOY reviews. The user's own extra prompts specific to
      mid-year/EOY (not yet written) layer on top of this in .local/reviews/ (gitignored),
      not in this file. -->
 
