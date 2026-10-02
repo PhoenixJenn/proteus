@@ -28,7 +28,7 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
 - `commands/` — Claude Code slash commands that support the agent
   - `good-morning.md` — Morning Plan: processes the Inbox, checks calendar, runs `/whats-new`, asks the Focusing Question, protects a block — plus the Weekly cadence (Weekly Review, Delegate or Decline across the whole list, 1:1 calendar check, Team Flow Check) on the week's first run
   - `whats-new.md` — checks email and messaging since each channel's own last-checked timestamp (`state/last-checked.md`), not a fuzzy boundary; standalone, runnable any time, and the actual implementation `/good-morning` calls rather than duplicating
-  - `post-meeting.md` — the nine-question post-meeting check, routed to the Inbox, the daily log, SBI, or `hard-conversations.md` depending on the answer — the on-demand trigger in between `/good-morning` and `/wrap-up`
+  - `post-meeting.md` — walks today's calendar meeting by meeting (or a named prior day, to catch up if time got away) asking the nine-question check, SKIP always acceptable, routed to the Inbox, the daily log, SBI, or `hard-conversations.md` depending on the answer — the on-demand trigger in between `/good-morning` and `/wrap-up`
   - `sprint-update.md` — conditional, same gate as Team Flow Check: sprint goal alignment, what's actually in the sprint, and an explicit on-track/at-risk call, standalone any time rather than tied to a cadence
   - `wrap-up.md` — richer end-of-day ritual (daily log, time-value rollup, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running

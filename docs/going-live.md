@@ -38,7 +38,8 @@ Short version of each. Morning Plan and Post-Meeting Capture (#1 and #8) have bo
 5. **Evening wrap-up** — currently a Claude Code slash command (desktop-only, see `commands/wrap-up.md`). On mobile via the Project, this would need to be a conversational equivalent — worth deciding whether that's a second, lighter version or just "have this conversation with the Project before bed."
 6. **Handing over a new book one-pager** — `pdr-practice-coach.md`'s Plan step runs, a practice gets set up through Habit Formation's setup checks, and it rides inside the daily loop from then on.
 7. **Weekly Review** — GTD-style system check + Delegate or Decline run across the whole list + the deep-work block confirmed or re-created.
-8. **Post-Meeting Capture** — right after a meeting, a fast numbered check (see `post-meeting-capture.md`) that routes outcomes, action items, priorities, feelings, people observations, the user's own presence, a keeper win, and any harder-conversation flag to wherever each actually belongs. *(Role-played live — this is how the mechanism got identified as a gap and built in the first place.)*
+8. **Post-Meeting Capture** — right after a meeting, a fast numbered check (see `post-meeting-capture.md`) that routes outcomes, action items, priorities, feelings, people observations, the user's own presence, a keeper win, and any harder-conversation flag to wherever each actually belongs. If the calendar is connected, it walks the day's meetings one at a time rather than running anonymously, and SKIP is always acceptable for one that doesn't need notes. *(Role-played live — this is how the mechanism got identified as a gap and built in the first place.)*
+8a. **Catching up on `/post-meeting` for a day that got away** — three meetings happened and none got captured in the moment; naming that earlier day picks up only the ones still unhandled, same mechanism as 1a above but for meetings instead of email/messaging.
 
 ## Still open
 

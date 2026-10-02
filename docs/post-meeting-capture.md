@@ -2,9 +2,20 @@
 
 A fifth cross-cutting mechanism, on-demand right after any meeting — not a cadence check. Triggered as `/post-meeting` (`commands/post-meeting.md`), the counterpart to `/good-morning` and `/wrap-up` for the moment in between. Identified as a gap during a live role-play test: none of the other four flows (`delegate-or-decline.md`, `habit-formation.md`, `hard-conversations.md`, `one-on-ones.md`) actually cover "I just left a meeting, help me capture what matters before it fades." This one composes pieces from all of them rather than inventing new mechanics — its job is routing, not new content.
 
+## Which meeting this is actually for
+
+This never runs anonymously — every capture is attached to a named meeting. Per `daily-work-companion.md`'s "Takes action" principle: if the calendar is connected, read that day's meetings directly rather than asking the user to remember and name each one.
+
+- **Calendar connected:** pull the day's meetings (today by default, or a different day if the user names one — this isn't limited to running right after the meeting that just happened), check that day's daily log for which already have a capture or a SKIP logged, and walk through only what's left, one meeting at a time, in order.
+- **Calendar not connected:** ask which meeting this is for, by name, before anything else.
+
+**SKIP is a complete, acceptable answer** for any meeting in the walk-through — no justification required. It still gets logged (as skipped, not as unprocessed) so it isn't re-asked next time.
+
+**Catching up on prior meetings:** since this is anchored to a day's calendar rather than only "the meeting that just ended," it also covers getting busy and falling behind — name an earlier day and it walks through whatever that day's calendar shows that hasn't already been captured or skipped. The daily log is what makes this safe to re-run without duplicating anything.
+
 ## The prompt
 
-Delivered as a short numbered list the user can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
+Once a specific meeting is identified, delivered as a short numbered list the user can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
 
 1. **Outcomes** — what was actually decided, and what happened?
 2. **Action items** — what's now on someone's plate, and whose? (Anything not the user's own runs through `delegate-or-decline.md`'s full flow since it's already a named decision, not a fresh capture; anything that is theirs goes into the to-do list's **Inbox** — captured now, clarified and prioritized at the next Morning Plan, not decided on the spot.)
@@ -27,6 +38,8 @@ Delivered as a short numbered list the user can answer quickly, not an open-ende
 - **Their own presence** → the quarterly personal-narrative/brand check (`daily-work-companion.md`, Quarterly) is where a pattern across several of these would actually get acted on — a single meeting's answer here is just a data point, not a verdict.
 - **Keeper win** → `templates/sbi.md`, same as `/wrap-up`'s existing keeper-wins step — this is actually the same mechanism, just triggered by a meeting instead of end-of-day.
 - **Harder conversation flag** → `hard-conversations.md`, run separately and later, not in the heat of capturing notes.
+
+Every routed item carries which meeting it came from — necessary once a single run can walk through several meetings in one pass. Separately, whichever meeting was just handled (captured or skipped) gets one line in the daily log recording that — this is the only state the catch-up logic above reads, so it has to be written for a SKIP just as much as for real notes.
 
 ## What this isn't
 

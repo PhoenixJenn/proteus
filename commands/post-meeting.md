@@ -10,8 +10,14 @@ Part of **Proteus** (`~/Projects/proteus`). Triggers `docs/post-meeting-capture.
 
 ## Steps
 
-### 1. Ask the nine questions, as a numbered list, not a narrative prompt
-Speed matters more than completeness right after a meeting — the user answers in order, briefly:
+### 1. Identify which day, then which meeting(s)
+Default to today. If the user names a different day instead ("catch up on Monday," "I never did Tuesday's standup"), use that day's calendar and daily log instead — this command isn't limited to "right after the meeting that just happened."
+
+- **If the calendar is connected:** pull that day's meetings. Check that day's daily log for which ones already have a capture or a SKIP recorded (see Step 4) and drop those from the list — don't re-ask a meeting that's already been handled. Walk through what's left in chronological order, one meeting at a time, naming each one before asking about it ("Next: the 2pm with Design — outcomes?").
+- **If the calendar isn't connected:** ask directly which meeting this capture is for, by name, before asking anything else. Every capture gets attached to a named meeting either way — none of this is left anonymous.
+
+### 2. For each meeting, ask the nine questions — or take SKIP
+Speed matters more than completeness right after a meeting. For the meeting currently being walked through, ask in order, briefly — and treat **SKIP** as a complete, acceptable answer for that entire meeting, no justification needed. On SKIP, log it as skipped (Step 4) and move straight to the next meeting.
 
 1. **Outcomes** — what was actually decided, and what happened?
 2. **Action items** — what's now on someone's plate, and whose?
@@ -23,7 +29,9 @@ Speed matters more than completeness right after a meeting — the user answers 
 8. **A keeper win here?**
 9. **Does anything here point toward a harder conversation later?**
 
-### 2. Route each answer — don't just log the list verbatim
+If there's more than one meeting left to walk through, move to the next one after routing (Step 3) and logging (Step 4) the current one — don't batch all the questions for every meeting together.
+
+### 3. Route each answer — don't just log the list verbatim
 Per `docs/post-meeting-capture.md`'s routing table:
 - **Outcomes** → append to today's daily log (raw material for tonight's `/wrap-up`, not a separate record).
 - **Action items** → the user's own go into the to-do list's Inbox (captured, not triaged — `/good-morning` clarifies it next); anything with a live question about whose it is runs through `docs/delegate-or-decline.md`'s full flow right now instead of waiting.
@@ -35,5 +43,10 @@ Per `docs/post-meeting-capture.md`'s routing table:
 - **Keeper win** → capture in SBI (`templates/sbi.md`) now, same mechanism `/wrap-up` uses, just triggered by the meeting instead of end-of-day — don't make the user repeat it tonight.
 - **Harder conversation flag** → noted for `docs/hard-conversations.md`, run separately and later, not addressed in this capture.
 
-### 3. Confirm
-One line: what got logged, what got routed where, nothing read back in full.
+Tag every routed item with which meeting it came from — with more than one meeting walked through in a single run, "an action item" isn't enough context on its own later.
+
+### 4. Log the meeting as handled, then move on
+Whether captured or skipped, add one line to that day's daily log so this meeting doesn't get re-asked on a later run: `Meeting: <name> — captured` or `Meeting: <name> — skipped`. This is the only state Step 1's catch-up logic reads, so it has to happen for every meeting walked through, not just the ones with real notes.
+
+### 5. Confirm
+One line per meeting walked through this run: captured or skipped. Nothing read back in full.
