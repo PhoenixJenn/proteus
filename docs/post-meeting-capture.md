@@ -1,0 +1,31 @@
+# Post-Meeting Capture
+
+A fifth cross-cutting mechanism, on-demand right after any meeting — not a cadence check. Identified as a gap during a live role-play test: none of the other four flows (`delegate-or-decline.md`, `habit-formation.md`, `hard-conversations.md`, `one-on-ones.md`) actually cover "I just left a meeting, help me capture what matters before it fades." This one composes pieces from all of them rather than inventing new mechanics — its job is routing, not new content.
+
+## The prompt
+
+Delivered as a short numbered list Jenn can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
+
+1. **Outcomes** — what was actually decided, and what happened?
+2. **Action items** — what's now on someone's plate, and whose? (Anything not hers runs through `delegate-or-decline.md`; anything hers goes to the to-do list.)
+3. **Priorities** — does anything here change or confirm what matters most right now?
+4. **How do you feel** — any reaction worth naming (frustrated, energized, uneasy, relieved)?
+5. **People observations** — anything notable about how people showed up: engaged, checked out, pushback, something unspoken? (Baseline-then-deviation and SCARF, both in `framework-nuggets.md`, are the lenses for this one.)
+6. **Your own presence** — how did you come across? Gravitas, communication, read of the room (Executive Presence nugget, `framework-nuggets.md`) — anything you'd adjust next time?
+7. **A keeper win here?** — captured in SBI (`templates/sbi.md`) if yes, not just noted in passing.
+8. **Does anything here point toward a harder conversation later?** — flagged for `hard-conversations.md`, not addressed in the moment the notes are being taken.
+
+## Where each answer actually goes
+
+- **Outcomes** → the daily log (done-list, per `daily-work-companion.md`'s Evening Reflect) — this is raw material for that, not a separate record.
+- **Action items** → the to-do list directly if hers; `delegate-or-decline.md`'s flow if there's a real question about whether it's hers at all.
+- **Priorities** → cross-check against the day's Focusing Question (`daily-work-companion.md`, Morning Plan) — if it's changed, that's worth knowing before the day's plan goes stale.
+- **Feelings** → no separate record unless it's substantial; the point is naming it, not journaling it, unless she's running the three-EQ-journals habit (`framework-nuggets.md`) already.
+- **People observations** → informs how she handles any 1:1 or follow-up with that person (`one-on-ones.md`), not filed away as a one-off.
+- **Her own presence** → the quarterly personal-narrative/brand check (`daily-work-companion.md`, Quarterly) is where a pattern across several of these would actually get acted on — a single meeting's answer here is just a data point, not a verdict.
+- **Keeper win** → `templates/sbi.md`, same as `/wrap-up`'s existing keeper-wins step — this is actually the same mechanism, just triggered by a meeting instead of end-of-day.
+- **Harder conversation flag** → `hard-conversations.md`, run separately and later, not in the heat of capturing notes.
+
+## What this isn't
+
+Not a transcript or a full meeting-minutes system — it's a fast sort, done once right after the meeting while it's still fresh, that routes each piece to wherever it was always going to need to go.
