@@ -239,3 +239,15 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 
 ### Negotiating a starting number
 **Take the higher salary now** (How to Become CEO, Jeffrey Fox): future raises are usually set as a percentage of current pay, so negotiating hard on a starting salary has outsized long-term leverage compared to the same effort spent negotiating a later raise.
+
+### Chronic firefighting that never actually gets fixed
+**The Three Ways** (The Phoenix Project, Gene Kim et al.): Flow — optimize the performance of the whole system, never a single silo, and stop defects moving downstream. Feedback — build fast, amplified loops running back from operations to development, not just forward. Continual Learning — build a culture that rewards calculated risk-taking and treats failure as a source of mastery, not something to hide. The overarching philosophy underneath Making Work Visible's five-thieves diagnostic already in this file — this is the sequence, that's the symptom list.
+
+### An organization keeps overloading the same person
+**Find your Brent** (The Phoenix Project): every overloaded team has a single irreplaceable person or team who's become an undocumented bottleneck — find them and protect/offload their load first, before anything else. Theory of Constraints applied to people specifically, sharper than the general 80% utilization check already in `delegate-or-decline.md`: that flow checks *her own* capacity; this is the diagnostic for spotting whether someone *else* has quietly become the whole system's single point of failure.
+
+### What actually deserves to be the goal
+**Improvement of daily work, as its own goal** (The Unicorn Project's Five Ideals, Gene Kim): treating *how* the work gets done as more important than the work itself — worth noticing this is close to the premise this whole Proteus project runs on, not just a line from a novel about IT.
+
+### Leadership character, in aphorisms
+**Colin Powell's rules** (It Worked for Me): perpetual optimism is a force multiplier — visible, communicated optimism from whoever's leading changes how hard a team fights through a setback, independent of whether the optimism is fully warranted yet. Own your call, publicly — take sole responsibility for a decision that went badly rather than distributing blame across the chain, even when distributing it would be easier. Detail work is leadership work — mundane attentiveness to logistics and small facts is what lets faster, better high-level judgment calls get made; it's not something to delegate away entirely just because the role has grown past it.
