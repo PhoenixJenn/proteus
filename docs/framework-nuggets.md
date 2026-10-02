@@ -15,7 +15,7 @@ A pre-curated "best of" from the `plan-do-reflect-www` one-pagers — short, sit
 **ABCDE method** (Eat That Frog!, Brian Tracy): label every task A (serious consequences if not done), B (should do, mild consequences), C (nice to do, no consequences), D (delegate), or E (eliminate) — then work strictly in order, never touching a B until every A is done. A more mechanical alternative to the Focusing Question when a list is long and needs sorting, not narrowing.
 
 ### A team's work isn't flowing
-**The five thieves of time** (Making Work Visible, Dominica DeGrandis): too much work in progress, unknown dependencies, unplanned work, conflicting priorities, neglected work. Naming which thief is active is the first step to fixing a flow problem — useful when the user is describing a team/throughput issue, not a personal one.
+**The five thieves of time** (Making Work Visible, Dominica DeGrandis): too much work in progress, unknown dependencies, unplanned work, conflicting priorities, neglected work. Naming which thief is active is the first step to fixing a flow problem — useful when the user is describing a team/throughput issue, not a personal one. If the user manages an engineering team and an issue tracker is connected, this becomes a real diagnostic instead of a mental one — see `team-flow-check.md`, which runs these five checks against actual ticket data on the Weekly cadence.
 
 ### Declining something
 **"I don't" vs. "I can't"** (The Art of Saying No, Damon Zahariades): "I can't" invites negotiation because it sounds like an obstacle to solve around; "I don't" states a standing choice. Swap the phrasing in the moment rather than over-explaining.

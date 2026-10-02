@@ -41,6 +41,12 @@ Notes: <which workspace/channels matter most, any tool name/command>
 
 Same read-only rule as email — `/whats-new` and `/good-morning` surface what's new since the last check, nothing gets replied to or marked read on Proteus's own initiative. If not connected, ask once.
 
+## Issue tracker (optional — only fill in if the user manages or leads an engineering team)
+Read (checking tickets/boards): <e.g. a connected JIRA/Linear/other tool, or "not connected — ask before proceeding">
+Notes: <which board(s)/project(s) matter most, team members to track, any tool name/command>
+
+Powers `docs/team-flow-check.md`'s five-thieves-of-time diagnostic (Making Work Visible). Read-only, same rule as everything else above — Proteus reads tickets to diagnose flow problems, it doesn't modify, comment on, or re-prioritize them. If this slot doesn't apply (no engineering team), leave it blank and don't ask about it repeatedly.
+
 ## Daily log
 Path: <CONTEXT_DIR>/daily/YYYY-MM-DD.md
 

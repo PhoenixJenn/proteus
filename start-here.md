@@ -34,7 +34,9 @@ Claude should ask these one at a time, in order — later questions build on ear
 
 **8. Monthly / quarterly review format.** Proteus ships with generic Monthly Log and Quarterly Review templates (`templates/monthly-log.md`, `templates/quarterly-review.md`) sourced from the Plan-Do-Reflect framework. Use those as-is, or do you already have your own format? If your own: keep the real one wherever it lives, and note its path/shape in the knowledge index rather than copying it into this repo (it's likely specific enough to count as personal/work content, not generic framework).
 
-**9. First book practice (optional).** Is there a specific Plan-Do-Reflect one-pager you want to start applying right away (see `docs/pdr-practice-coach.md`), or do you want to hold off until the rest of the setup is in place?
+**9. Do you manage people?** If yes, `one-on-ones.md`'s weekly 1:1 calendar check applies — otherwise it shouldn't come up. If you also lead or manage an engineering team specifically: is there an issue tracker (JIRA, Linear, etc.) Claude can read (not modify) in this environment? If yes, that powers `team-flow-check.md`'s weekly flow diagnostic; if no connector exists yet, name the tool anyway so it's not re-asked every session. If you don't manage people at all, skip both — say so and move on.
+
+**10. First book practice (optional).** Is there a specific Plan-Do-Reflect one-pager you want to start applying right away (see `docs/pdr-practice-coach.md`), or do you want to hold off until the rest of the setup is in place?
 
 ## After setup
 

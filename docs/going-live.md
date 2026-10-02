@@ -6,7 +6,7 @@ Everything else in `docs/` is the framework. This is the one doc about actually 
 
 A Project has two inputs: **custom instructions** (always in context, short) and **project knowledge** (files Claude reads as needed, can be larger). Proteus maps onto that split naturally:
 
-- **Custom instructions** — a condensed pointer, not the full framework restated: "You are Proteus, a daily work companion. Read the attached docs for the full framework (daily loop, cadences, Delegate or Decline, Habit Formation, Hard Conversations, One-on-Ones, Post-Meeting Capture, the nuggets library). Read `.local-equivalent` knowledge content from [wherever it ends up, see below] before answering anything that needs the user's real context." Short because it's always-loaded; everything else is retrieval.
+- **Custom instructions** — a condensed pointer, not the full framework restated: "You are Proteus, a daily work companion. Read the attached docs for the full framework (daily loop, cadences, Delegate or Decline, Habit Formation, Hard Conversations, One-on-Ones, Post-Meeting Capture, Team Flow Check, the nuggets library). Read `.local-equivalent` knowledge content from [wherever it ends up, see below] before answering anything that needs the user's real context." Short because it's always-loaded; everything else is retrieval.
 - **Project knowledge** — every file currently in `docs/` and `templates/`, uploaded as-is. This repo was written to be read directly, not rewritten for this purpose.
 
 ## The knowledge-index problem, actually solved
@@ -23,6 +23,7 @@ Calendar, email, and messaging don't have this problem the same way — they're 
 - **Google Calendar: confirmed working.** This environment has it connected right now; read and write both tested earlier (checked a real week, found it was the wrong calendar — personal, not work — which is itself the thing to get right when this moves to wherever the real work calendar lives).
 - **Email: not available in this environment.** No Gmail/email tool showed up when checked just now. `/whats-new`'s email check is written into the framework, but whether it actually runs depends on what connector gets enabled on the account the real Claude Project uses — check claude.ai's own connector settings when building it, don't assume it'll just work because Calendar does.
 - **Messaging (Teams/Slack): not checked yet in this environment.** Same caveat as email — needs its own connector, don't assume it comes for free.
+- **Issue tracker (JIRA/Linear): not available in this environment.** No JIRA or generic issue-tracker tool showed up when checked. `team-flow-check.md`'s whole premise — real ticket data instead of a mental checklist — depends on this connector existing somewhere; until then, the five-thieves nugget in `framework-nuggets.md` still works as a conversational diagnostic.
 - **To-do list / strategy context / last-checked timestamps:** depends entirely on option 2 above (a connected live document) vs. option 1 (paste it each time). Decide this before leaning on the daily cadence — `/whats-new`'s whole value is in the timestamp actually persisting.
 
 ## Usage scenarios — what this actually looks like day to day
