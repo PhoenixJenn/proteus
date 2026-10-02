@@ -10,7 +10,12 @@ Part of **Proteus** (`~/Projects/proteus`). Same command name as before on purpo
 
 ## What's new vs. the old `wrap-up`
 
-Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, to-do checkoff, confirm, usage push notification). Two new steps inserted before Step 5 (Confirm):
+Steps 1, 2, 3, 5, 6 are unchanged (date/project, daily log, to-do checkoff, confirm, usage push notification). Three new steps inserted before Step 5 (Confirm):
+
+### Step 2a — Time-value rollup
+- If any meetings happened today, pull their goal-contribution tags from `docs/post-meeting-capture.md`'s Step 3 (did each one actually serve a goal, or none).
+- Ask how the day's time actually split — how much served a real goal, how much didn't. Not a guilt exercise; the point is the same one 168 Hours and Christensen's resource-allocation finding make (`docs/framework-nuggets.md`): actual priorities are revealed by where time went, not by what was intended.
+- If a specific meeting type keeps tagging "none" more than once, flag it as a candidate for the next Weekly Review (`docs/delegate-or-decline.md`) or the Quarterly trigger audit (`docs/daily-work-companion.md`) — don't just note it and let it repeat.
 
 ### Step 4a — Book practice check-in
 - Read `.local/pdr-active-practice.md` if it exists (gitignored; copy `state/pdr-active-practice.md`, the generic template in this repo, there on first use).
