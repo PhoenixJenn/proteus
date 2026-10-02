@@ -19,6 +19,12 @@ Notes: <anything Proteus should know about how to use it here — which calendar
 
 If either isn't connected on this machine, Proteus should ask Jenn for permission/setup once — not silently fall back to just suggesting times in chat forever.
 
+## Email tool
+Read (scanning for anything urgent): <e.g. a connected email tool, or "not connected — ask before proceeding">
+Notes: <which account/inbox, any tool name/command>
+
+Read-only by design — Morning Plan uses this to surface anything urgent, not to triage the whole inbox or take any action (reply, archive, flag) on Proteus's own initiative. If not connected, ask once rather than silently skipping the check every morning.
+
 ## Daily log
 Path: <CONTEXT_DIR>/daily/YYYY-MM-DD.md
 

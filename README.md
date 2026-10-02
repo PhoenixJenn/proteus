@@ -22,6 +22,7 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `habit-formation.md` — how any new habit gets set up (habit stacking, the Four Laws) and diagnosed if it's slipping (Rider/Elephant/Path, Drive's Autonomy/Mastery/Purpose) — wired into the book-practice coach and `/wrap-up`, not a standalone cadence
   - `hard-conversations.md` — a flow for feedback, accountability, and conflict that's already hard (or might become so) — STATE/CRIB, a three-books-deep listening technique, and a difficult-behavior playbook
   - `one-on-ones.md` — the routine, scheduled counterpart: 1:1 structure (another independent three-book convergence), lightweight frequent feedback, task-relevant-maturity delegation, and "no surprises" performance reviews built from material already captured, not written cold
+  - `going-live.md` — what actually building this as a Claude Project involves: the custom-instructions/knowledge-file split, the `.local/knowledge-index.md` problem on a filesystem-less Project, which connectors are confirmed working vs. need checking, and the day-to-day usage scenarios
 - `commands/` — Claude Code slash commands that support the agent
   - `wrap-up.md` — richer end-of-day ritual (daily log, to-do checkoff, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running
