@@ -12,7 +12,7 @@ Everything Proteus needs to know about *you* — your calendar, your to-do list,
 
 Paste this into a fresh conversation with Claude, in this repo:
 
-> I'm setting up Proteus for the first time on this machine. Walk me through the setup questions in `start-here.md` one at a time, wait for my answer before moving to the next, and at the end write my answers into `.local/knowledge-index.md` (copying the shape from `templates/knowledge-index.example.md`). If I don't have something a question asks about, help me set up a minimal version of it instead of skipping it.
+> I'm setting up Proteus for the first time on this machine. Walk me through the setup questions in `start-here.md` one at a time, wait for my answer before moving to the next, and at the end write my answers into `.local/knowledge-index.md` (copying the shape from `templates/knowledge-index.example.md`). Also copy `state/last-checked.md` to `.local/last-checked.md` as-is — it starts empty and fills in the first time `/whats-new` or `/good-morning` runs. If I don't have something a question asks about, help me set up a minimal version of it instead of skipping it.
 
 ## Setup questions
 
@@ -20,19 +20,21 @@ Claude should ask these one at a time, in order — later questions build on ear
 
 **1. Calendar.** What calendar do you use (Google, Outlook, other)? Is there a way for Claude to actually read/write to it in this environment (a connected calendar tool), or does that need setting up? If it can't be connected right now, say so plainly — Proteus should ask permission before assuming it has calendar access, not silently fall back to just suggesting times.
 
-**2. Email.** Is there a way for Claude to read (not act on) your email in this environment? Morning Plan uses this to surface anything urgent since the last wrap-up — read-only, a scan for what's time-sensitive, not a full inbox triage. If it can't be connected right now, say so plainly, same as calendar.
+**2. Email.** Is there a way for Claude to read (not act on) your email in this environment? `/whats-new` and `/good-morning` use this to surface anything new since the last check — read-only, a scan for what's time-sensitive, not a full inbox triage. If it can't be connected right now, say so plainly, same as calendar.
 
-**3. To-do list.** Where do you keep your to-do list today? If you don't have one, this is the point to start one — a plain `TODO.md` somewhere is enough; Proteus doesn't need anything fancier.
+**3. Messaging.** What do you use for chat (Slack, Teams, etc.)? Same question as email — is there a way for Claude to read it (not act on it) in this environment? `/whats-new` checks this alongside email. If it can't be connected, name the tool anyway — it still matters for the quarterly external-trigger audit (`docs/daily-work-companion.md`) even without a live connection.
 
-**4. Do you have a "second brain" already?** A notes system, journal, personal wiki, or context repo — anywhere you already keep running notes about your goals, decisions, and what you're working on. If yes, where. If no: this is worth building even a minimal version of before going further — Proteus works by reading what's already written down, not by replacing your judgment with its own memory. A minimal version is just a folder with a `daily/` subfolder for day-by-day notes and one file for your goals/priorities — doesn't need to be more than that to start.
+**4. To-do list.** Where do you keep your to-do list today? If you don't have one, this is the point to start one — a plain `TODO.md` somewhere is enough. Make sure it has (or add) an **Inbox** section separate from the main prioritized list — that's where newly captured items land before `/good-morning` clarifies and prioritizes them (`docs/delegate-or-decline.md`'s Capture step).
 
-**5. Strategy / goals context.** Do you have anything written down about your priorities, goals, or operating principles (a mission statement, OKRs, a set of rules you hold yourself to)? If not, sketch a short one now — a few sentences on what you're actually trying to accomplish and one or two principles you want decisions checked against (Proteus's Delegate-or-Decline flow and daily Plan step both lean on this).
+**5. Do you have a "second brain" already?** A notes system, journal, personal wiki, or context repo — anywhere you already keep running notes about your goals, decisions, and what you're working on. If yes, where. If no: this is worth building even a minimal version of before going further — Proteus works by reading what's already written down, not by replacing your judgment with its own memory. A minimal version is just a folder with a `daily/` subfolder for day-by-day notes and one file for your goals/priorities — doesn't need to be more than that to start.
 
-**6. Monthly / quarterly review format.** Proteus ships with generic Monthly Log and Quarterly Review templates (`templates/monthly-log.md`, `templates/quarterly-review.md`) sourced from the Plan-Do-Reflect framework. Use those as-is, or do you already have your own format? If your own: keep the real one wherever it lives, and note its path/shape in the knowledge index rather than copying it into this repo (it's likely specific enough to count as personal/work content, not generic framework).
+**6. Goals list.** Name 3-5 actual goals, short and specific — not a mission statement. This is what the daily Focusing Question and `docs/post-meeting-capture.md`'s goal-contribution tag check against directly, so it needs real names to tag, not a paragraph of context.
 
-**7. Messaging — interruption sources.** What do you use for chat (Slack, Teams, etc.)? Proteus doesn't have a live tool connection to this yet (unlike email, above), but naming it now means the quarterly external-trigger audit (see `docs/daily-work-companion.md`) has something concrete to actually audit instead of a vague "notifications."
+**7. Strategy / goals context.** Separately from the named goals above: do you have anything written down about your broader priorities or operating principles (a mandate, a set of rules you hold yourself to)? If not, sketch a short one now — Proteus's Delegate-or-Decline flow and daily Plan step both lean on this.
 
-**8. First book practice (optional).** Is there a specific Plan-Do-Reflect one-pager you want to start applying right away (see `docs/pdr-practice-coach.md`), or do you want to hold off until the rest of the setup is in place?
+**8. Monthly / quarterly review format.** Proteus ships with generic Monthly Log and Quarterly Review templates (`templates/monthly-log.md`, `templates/quarterly-review.md`) sourced from the Plan-Do-Reflect framework. Use those as-is, or do you already have your own format? If your own: keep the real one wherever it lives, and note its path/shape in the knowledge index rather than copying it into this repo (it's likely specific enough to count as personal/work content, not generic framework).
+
+**9. First book practice (optional).** Is there a specific Plan-Do-Reflect one-pager you want to start applying right away (see `docs/pdr-practice-coach.md`), or do you want to hold off until the rest of the setup is in place?
 
 ## After setup
 

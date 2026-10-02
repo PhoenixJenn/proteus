@@ -33,7 +33,13 @@ If either isn't connected on this machine, Proteus should ask Jenn for permissio
 Read (scanning for anything urgent): <e.g. a connected email tool, or "not connected — ask before proceeding">
 Notes: <which account/inbox, any tool name/command>
 
-Read-only by design — Morning Plan uses this to surface anything urgent, not to triage the whole inbox or take any action (reply, archive, flag) on Proteus's own initiative. If not connected, ask once rather than silently skipping the check every morning.
+Read-only by design — `/whats-new` and `/good-morning` use this to surface anything new or urgent since the last check (`state/last-checked.md` / `.local/last-checked.md`), not to triage the whole inbox or take any action (reply, archive, flag) on Proteus's own initiative. If not connected, ask once rather than silently skipping the check every time.
+
+## Messaging tool
+Read (scanning for anything new): <e.g. a connected Teams/Slack tool, or "not connected — ask before proceeding">
+Notes: <which workspace/channels matter most, any tool name/command>
+
+Same read-only rule as email — `/whats-new` and `/good-morning` surface what's new since the last check, nothing gets replied to or marked read on Proteus's own initiative. If not connected, ask once.
 
 ## Daily log
 Path: <CONTEXT_DIR>/daily/YYYY-MM-DD.md

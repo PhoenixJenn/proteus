@@ -10,7 +10,7 @@ Design draft. Not yet built as a Claude Project. See `docs/daily-work-companion.
 
 ## Setup
 
-New to this repo (your own clone, or someone else's)? Start with **`start-here.md`** — it walks through the questions Proteus needs answered (calendar, to-do list, a "second brain" if you don't have one yet, goals/operating principles, review format, interruption sources, first book practice) and builds your machine's `.local/knowledge-index.md` from the answers. Written to work for anyone, not just the original author.
+New to this repo (your own clone, or someone else's)? Start with **`start-here.md`** — it walks through the questions Proteus needs answered (calendar, email, messaging, to-do list with an Inbox section, a "second brain" if you don't have one yet, a named goals list, operating principles, review format, first book practice) and builds your machine's `.local/knowledge-index.md` and `.local/last-checked.md` from the answers. Written to work for anyone, not just the original author.
 
 ## Layout
 
@@ -25,11 +25,13 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `post-meeting-capture.md` — a fast, numbered post-meeting check (outcomes, action items, priorities, feelings, people observations, her own presence, a keeper win, a harder-conversation flag) that routes each answer to wherever it belongs rather than being its own record. Found as a gap during a live role-play test, not sourced from a book.
   - `going-live.md` — what actually building this as a Claude Project involves: the custom-instructions/knowledge-file split, the `.local/knowledge-index.md` problem on a filesystem-less Project, which connectors are confirmed working vs. need checking, and the day-to-day usage scenarios
 - `commands/` — Claude Code slash commands that support the agent
-  - `good-morning.md` — Morning Plan: processes the Inbox, checks calendar/email, asks the Focusing Question, protects a block — plus the Weekly cadence (Weekly Review, Delegate or Decline across the whole list, 1:1 calendar check) on the week's first run
+  - `good-morning.md` — Morning Plan: processes the Inbox, checks calendar, runs `/whats-new`, asks the Focusing Question, protects a block — plus the Weekly cadence (Weekly Review, Delegate or Decline across the whole list, 1:1 calendar check) on the week's first run
+  - `whats-new.md` — checks email and messaging since each channel's own last-checked timestamp (`state/last-checked.md`), not a fuzzy boundary; standalone, runnable any time, and the actual implementation `/good-morning` calls rather than duplicating
   - `post-meeting.md` — the nine-question post-meeting check, routed to the Inbox, the daily log, SBI, or `hard-conversations.md` depending on the answer — the on-demand trigger in between `/good-morning` and `/wrap-up`
   - `wrap-up.md` — richer end-of-day ritual (daily log, time-value rollup, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running
   - `pdr-active-practice.md` — template for whichever book's practice is currently active
+  - `last-checked.md` — template for the per-channel last-checked timestamps `/whats-new` and `/good-morning` read and update
 - `templates/` — reusable templates, sourced from `plan-do-reflect-www`'s own published framework where one exists — public content, not placeholders
   - `monthly-log.md` — the Monthly Log format from Reflection Practice (Core Goals, Growth Goals, Ideas & Open Threads, End-of-Month Wins)
   - `quarterly-review.md` — the Quarterly Review format, explicitly reusable for a quarter/half/full year — also the base shape for mid-year/EOY reviews (Jenn's own extra prompts for those go in `.local/reviews/`, gitignored, once she has them)
