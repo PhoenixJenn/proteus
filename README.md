@@ -26,6 +26,7 @@ New to this repo (your own clone, or someone else's)? Start with **`start-here.m
   - `going-live.md` — what actually building this as a Claude Project involves: the custom-instructions/knowledge-file split, the `.local/knowledge-index.md` problem on a filesystem-less Project, which connectors are confirmed working vs. need checking, and the day-to-day usage scenarios
 - `commands/` — Claude Code slash commands that support the agent
   - `good-morning.md` — Morning Plan: processes the Inbox, checks calendar/email, asks the Focusing Question, protects a block — plus the Weekly cadence (Weekly Review, Delegate or Decline across the whole list, 1:1 calendar check) on the week's first run
+  - `post-meeting.md` — the nine-question post-meeting check, routed to the Inbox, the daily log, SBI, or `hard-conversations.md` depending on the answer — the on-demand trigger in between `/good-morning` and `/wrap-up`
   - `wrap-up.md` — richer end-of-day ritual (daily log, time-value rollup, book-practice check-in, keeper-wins-to-monthly-log, captured in SBI/STARR)
 - `state/` — generic, empty templates for state the commands read/write once running
   - `pdr-active-practice.md` — template for whichever book's practice is currently active

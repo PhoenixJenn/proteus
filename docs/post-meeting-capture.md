@@ -1,6 +1,6 @@
 # Post-Meeting Capture
 
-A fifth cross-cutting mechanism, on-demand right after any meeting — not a cadence check. Identified as a gap during a live role-play test: none of the other four flows (`delegate-or-decline.md`, `habit-formation.md`, `hard-conversations.md`, `one-on-ones.md`) actually cover "I just left a meeting, help me capture what matters before it fades." This one composes pieces from all of them rather than inventing new mechanics — its job is routing, not new content.
+A fifth cross-cutting mechanism, on-demand right after any meeting — not a cadence check. Triggered as `/post-meeting` (`commands/post-meeting.md`), the counterpart to `/good-morning` and `/wrap-up` for the moment in between. Identified as a gap during a live role-play test: none of the other four flows (`delegate-or-decline.md`, `habit-formation.md`, `hard-conversations.md`, `one-on-ones.md`) actually cover "I just left a meeting, help me capture what matters before it fades." This one composes pieces from all of them rather than inventing new mechanics — its job is routing, not new content.
 
 ## The prompt
 
