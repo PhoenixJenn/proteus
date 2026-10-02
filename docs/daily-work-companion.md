@@ -29,7 +29,8 @@ Proteus is not a report generator. When a capability is actually connected (per 
 ## The daily loop
 
 ### Morning — Plan
-- Pull today's open items from the to-do list (per the knowledge index) and check them against whatever operating principles the strategy/goals context defines — does today's list actually move the needle, or is it busywork that crept in?
+- **Process the Inbox first** (`delegate-or-decline.md`'s Capture → Clarify → Organize): anything captured since yesterday — from Post-Meeting Capture, email, anywhere — gets the two-minute-rule check, then ABCDE-tagged and moved into the real to-do list with the rest of the Delegate or Decline flow applied. The inbox should be empty, or close to it, by the time the rest of Morning Plan runs — it's a daily clearing, not something that waits for the Weekly Review.
+- Pull today's open items from the now-current to-do list (per the knowledge index) and check them against whatever operating principles the strategy/goals context defines — does today's list actually move the needle, or is it busywork that crept in?
 - Check the calendar for today's open slots (see "Takes action" above).
 - Check email for anything urgent since the boundary of the last wrap-up (see `commands/wrap-up.md`) — if no wrap-up ran since the last session, use the prior morning as the boundary instead. This is a read-only scan for what's actually urgent or time-sensitive, not a full inbox triage — surface it, don't act on it.
 - Ask: what's the one thing today that, if it happened, would matter most against her current goals? *(This is The ONE Thing's Focusing Question at day-scope — see Longer cadences below for the same question at every other scale.)* Ask this with the to-do list, calendar, and any urgent email already in view, not before — the answer should account for what actually showed up overnight, not just what was already planned.

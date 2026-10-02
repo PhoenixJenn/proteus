@@ -7,10 +7,20 @@
 
 ## To-do list
 Path: <absolute path to your to-do list on this machine>
+Format: should have an **Inbox** section (newly captured, not yet clarified or prioritized) separate from the main prioritized list — see `docs/delegate-or-decline.md`'s Capture step. If your to-do list doesn't already have this split, add one; it's what keeps new items from either getting lost or dumped into the real list untriaged.
+
+## Goals list
+A short, named list — not a vague mission statement. This is what `docs/post-meeting-capture.md`'s goal-contribution tag and the daily Focusing Question (`docs/daily-work-companion.md`) actually tag against, so it needs real names, not a paragraph of context.
+Path: <...>
+e.g.:
+- Goal A: <name>
+- Goal B: <name>
+- Goal C: <name>
 
 ## Strategy / goals context
 What it covers: <mandate, operating principles, current initiatives, north-star goals>
 Path(s): <...>
+(This is the broader context the Goals list above sits inside — operating principles and mandate, not the goals themselves.)
 
 ## Calendar tool
 Read (checking real availability): <e.g. a connected Google/Outlook calendar tool, or "not connected — ask before proceeding">

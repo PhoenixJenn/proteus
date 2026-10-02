@@ -4,10 +4,13 @@ Bandwidth is a constant constraint, not a problem to solve once — everyone run
 
 - **Reactive:** Jenn brings Proteus a specific task, request, or meeting invite ("should I take this on," "who should own this," "do I need to be in this") and it works through the flow below rather than just handing back an opinion.
 - **Proactive — regular workload curation:** at the Weekly Review (`daily-work-companion.md` → Weekly), this same flow runs across the *current to-do list*, not just new asks as they land. GTD's Weekly Review already reclarifies whether each open item is still actionable; while doing that pass, also run each item through steps 2-4 below. This is the direct application of The ONE Thing's Focusing Question at the workload level: deciding what's no longer worth Jenn's bandwidth is as much a part of "the ONE thing" as deciding what is.
+- **Capture → Clarify → Organize (Getting Things Done, David Allen — the part of GTD that wasn't pulled in alongside the Weekly Review until now):** a new item — from `post-meeting-capture.md`'s action items, an email, anywhere — never goes straight into the prioritized to-do list. It goes into the to-do list's **Inbox** section first (`.local/knowledge-index.md`), uncommitted, just captured so it's out of her head. It gets clarified and organized — the rest of this flow — at the next natural checkpoint: immediately if it's urgent, otherwise at the next Morning Plan (`daily-work-companion.md`), so the inbox never sits unprocessed for more than a day even though the deeper Weekly Review pass only happens once a week. One shortcut before running the full flow: GTD's **two-minute rule** — if it would take less than two minutes, just do it now. Filing it for later triage costs more than doing it would have.
 
 Synthesizes what's already been curated from the Time Management one-pagers (see `daily-work-companion.md` and `framework-nuggets.md`) into one usable process instead of Jenn having to remember which book said what.
 
 ## The flow
+
+**0. Capture first, clarify second.** If this is a new item rather than something already on the list, it goes into the Inbox (see above) the moment it shows up — don't skip straight to naming/tagging it in the moment it's captured unless she's actually ready to process it right then.
 
 **1. Name it concretely.** What's actually being asked, and by whom? Vague framing ("I have too much on my plate") doesn't get a real answer — a specific task does.
 

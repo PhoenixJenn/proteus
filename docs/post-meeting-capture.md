@@ -7,8 +7,8 @@ A fifth cross-cutting mechanism, on-demand right after any meeting — not a cad
 Delivered as a short numbered list Jenn can answer quickly, not an open-ended narrative ask — speed matters more than completeness right after a meeting:
 
 1. **Outcomes** — what was actually decided, and what happened?
-2. **Action items** — what's now on someone's plate, and whose? (Anything not hers runs through `delegate-or-decline.md`; anything hers goes to the to-do list.)
-3. **Goal contribution** — did this meeting actually serve one of her goals — which one, or none? A direct tag, not just a vibe-check, and it's allowed to be "none."
+2. **Action items** — what's now on someone's plate, and whose? (Anything not hers runs through `delegate-or-decline.md`'s full flow since it's already a named decision, not a fresh capture; anything hers goes into the to-do list's **Inbox** — captured now, clarified and prioritized at the next Morning Plan, not decided on the spot.)
+3. **Goal contribution** — did this meeting actually serve one of the named goals in `.local/knowledge-index.md`'s Goals list — which one, or none? A direct tag against a real name, not a vibe-check, and it's allowed to be "none."
 4. **Priorities** — does anything here change or confirm what matters most right now?
 5. **How do you feel** — any reaction worth naming (frustrated, energized, uneasy, relieved)?
 6. **People observations** — anything notable about how people showed up: engaged, checked out, pushback, something unspoken? (Baseline-then-deviation and SCARF, both in `framework-nuggets.md`, are the lenses for this one.)
@@ -19,7 +19,7 @@ Delivered as a short numbered list Jenn can answer quickly, not an open-ended na
 ## Where each answer actually goes
 
 - **Outcomes** → the daily log (done-list, per `daily-work-companion.md`'s Evening Reflect) — this is raw material for that, not a separate record.
-- **Action items** → the to-do list directly if hers; `delegate-or-decline.md`'s flow if there's a real question about whether it's hers at all.
+- **Action items** → the to-do list's Inbox if hers (captured, not yet triaged — `delegate-or-decline.md`'s Capture/Clarify/Organize note); `delegate-or-decline.md`'s full flow right now if there's a live question about whether it's hers at all.
 - **Goal contribution** → logged against the daily log entry for this meeting, specifically so Evening Reflect's time-value rollup (`daily-work-companion.md`) has real tags to aggregate instead of reconstructing the day from memory at night.
 - **Priorities** → cross-check against the day's Focusing Question (`daily-work-companion.md`, Morning Plan) — if it's changed, that's worth knowing before the day's plan goes stale.
 - **Feelings** → no separate record unless it's substantial; the point is naming it, not journaling it, unless she's running the three-EQ-journals habit (`framework-nuggets.md`) already.
