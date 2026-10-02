@@ -28,7 +28,7 @@ Proteus is not a report generator. When a capability is actually connected (per 
 
 ## The daily loop
 
-### Morning — Plan
+### Morning — Plan (implemented as `/good-morning`, `commands/good-morning.md`)
 - **Process the Inbox first** (`delegate-or-decline.md`'s Capture → Clarify → Organize): anything captured since yesterday — from Post-Meeting Capture, email, anywhere — gets the two-minute-rule check, then ABCDE-tagged and moved into the real to-do list with the rest of the Delegate or Decline flow applied. The inbox should be empty, or close to it, by the time the rest of Morning Plan runs — it's a daily clearing, not something that waits for the Weekly Review.
 - Pull today's open items from the now-current to-do list (per the knowledge index) and check them against whatever operating principles the strategy/goals context defines — does today's list actually move the needle, or is it busywork that crept in?
 - Check the calendar for today's open slots (see "Takes action" above).
@@ -53,7 +53,7 @@ Proteus is not a report generator. When a capability is actually connected (per 
 
 The daily loop covers Plan/Do/Reflect for a single day. These sit above it — checked less often, on purpose, so the agent doesn't turn into a second to-do list.
 
-### Weekly
+### Weekly (triggered via `/good-morning`'s Step 7, the first run of the week)
 - **Protect one fixed deep-work block** (Deep Work, Cal Newport — his "rhythmic" scheduling style: same slot, every week, on the calendar like a standing meeting). Once a week, not daily: read the actual calendar (see "Takes action" above), confirm that slot is still there and still open, and if it got bumped or was never set up, find a real open slot and create it directly rather than just flagging the gap. First-time setup (picking the slot itself) is a one-time confirmation with Jenn; after that, re-protecting the same standing slot each week doesn't need to be re-confirmed unless it conflicts with something already booked.
 - **The Focusing Question at week-scope** (The ONE Thing, Gary Keller): what's the ONE thing this week that, if it happened, would make everything else on it easier or unnecessary? The answer is *what goes in* the protected block above — not a separate slot or a separate check.
 - **The Weekly Review** (Getting Things Done, David Allen): a distinct system-hygiene pass, not prioritization — capture anything new that's been floating around uncaptured, reclarify any open commitment that's gone stale (still actionable? still worth doing?), and confirm the to-do list actually reflects reality. This is a check on the *system's* trustworthiness; the two items above are about *what matters* — both run in the same weekly sitting, but they're answering different questions.
